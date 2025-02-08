@@ -6,9 +6,7 @@ subtitle: Transit planner with a quest for data
 
 My name is Mihir Sriram Aranala. I am an architect and an urban planner by profession. Currently pursuing an MBA.
 
-<ol>
-    
-<li> I am a Transportation Planner at AECOM.
+- I am a Transportation Planner at AECOM.
 - My experience lies in data and spatial analysis, mapping, systems analysis, service and operations planning, and the use of various innovative tools.
 - I assist in transit, microtransit, BRT, and bike planning through data, spatial analysis and report writing.
 - I hold a Bachelor's degree in Architecture from Manipal Academy of Higher Education, India.
@@ -17,5 +15,3 @@ My name is Mihir Sriram Aranala. I am an architect and an urban planner by profe
 - 👀 I’m interested in the intersection of Transport (Rail and Transit) and urban data.
 - 🌱 I’m currently learning Spatial Data Science and Hadoop.
 - 📫 Email me at sriram.mihir@gmail.com
-
-</ol>
