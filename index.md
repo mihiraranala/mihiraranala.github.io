@@ -25,5 +25,5 @@ Follow this link to my resume - [Here](Resume Mihir Aranala April 2024.pdf)
 
 <img src="https://www.buzzsprout.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSGJOc0FVPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--418e44dea1dfa1833563662af194b12e77877435/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3docEFsZ0NhUUpZQW5zR09nbGpjbTl3T2d0alpXNTBjbVU2Q25OaGRtVnlld1k2REhGMVlXeHBkSGxwUVRvUVkyOXNiM1Z5YzNCaFkyVkpJZ2x6Y21kaUJqb0dSVlE9IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--1924d851274c06c8fa0acdfeffb43489fc4a7fcc/1.jpg" alt="Jazzmen Wilson - GIS Chat Podcast" width="200"/>
 
-- [Spotify](https://open.spotify.com/show/1EGcVLysJzCzh2yCm3dzuR)
-- [Apple Podcasts](https://podcasts.apple.com/us/podcast/gis-chat-podcast/id1712968933)
+- [Spotify](https://open.spotify.com/episode/0GOUR0gQFtYmXB2iquE971)
+- [Apple Podcasts](https://podcasts.apple.com/us/podcast/mihir-aranala/id1712968933?i=1000675874793)
