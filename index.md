@@ -19,3 +19,10 @@ Follow this link to my resume - [Here](Resume Mihir Aranala April 2024.pdf)
 - 👀 I’m interested in the intersection of Transport (Rail and Transit) and urban data.
 - 🌱 I’m currently learning Spatial Data Science and Hadoop.
 - 📫 Email me at sriram.mihir@gmail.com
+
+
+## GIS Chat Podcast - November 06, 2024
+Check out my latest podcast episode where I share my journey from being an intern to a full-time Transportation Planner at AECOM. I talk about the importance of public transit and how my experiences in India have shaped my drive journey. Tune in for an insightful conversation!
+
+[Spotify] - (https://open.spotify.com/show/1EGcVLysJzCzh2yCm3dzuR)
+[Apple Podcasts](https://podcasts.apple.com/us/podcast/gis-chat-podcast/id1712968933)
