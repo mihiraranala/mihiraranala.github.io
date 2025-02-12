@@ -18,8 +18,15 @@ AGIC Training and Education Symposium
 
 ## 2023
 
+### Outstanding MUEP Student, School of Geographical Sciences and Urban Planning
+
+### Friends of Transit Scholarship, WTS Metro Phoenix Chapter
+
 
 ## 2022
+
+### Tony Gonzales Scholarship, AGIC
+
 ### Runner up - Friends of Transit
 - [In the news- ASU planning and sustainability students receive top awards for transportation innovations](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjAjvXo9bqLAxWkI0QIHWqXFggQFnoECAYQAQ&url=https%3A%2F%2Fnews.asu.edu%2F20220304-asu-planning-and-sustainability-students-receive-top-awards-transportation-innovations&usg=AOvVaw1MK87YHm0f6nNQznqJeXhy&opi=89978449)\
 <img src="https://news.asu.edu/sites/default/files/styles/block_image_16_9_lge/public/0t8a6505_2mp.jpg?itok=ilsA_vVY" width="400">
