@@ -4,10 +4,10 @@ title: Mihir Aranala
 subtitle: Awards
 ---
 
-## 2025
+<center><h1>2025 </h1> </center>
 
 
-## 2024
+<center><h1>2024 </h1> </center>
 
 ### Best Analytical Presentation Winner - Envisioning Mesa's Transit Future
 AGIC Training and Education Symposium
@@ -16,14 +16,14 @@ AGIC Training and Education Symposium
 AGIC Training and Education Symposium
 
 
-## 2023
+<center><h1>2023 </h1> </center>
 
 ### Outstanding MUEP Student, School of Geographical Sciences and Urban Planning
 
 ### Friends of Transit Scholarship, WTS Metro Phoenix Chapter
 
 
-## 2022
+<center><h1>2022 </h1> </center>
 
 ### Tony Gonzales Scholarship, AGIC
 
@@ -31,7 +31,7 @@ AGIC Training and Education Symposium
 - [In the news- ASU planning and sustainability students receive top awards for transportation innovations](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjAjvXo9bqLAxWkI0QIHWqXFggQFnoECAYQAQ&url=https%3A%2F%2Fnews.asu.edu%2F20220304-asu-planning-and-sustainability-students-receive-top-awards-transportation-innovations&usg=AOvVaw1MK87YHm0f6nNQznqJeXhy&opi=89978449)\
 <img src="https://news.asu.edu/sites/default/files/styles/block_image_16_9_lge/public/0t8a6505_2mp.jpg?itok=ilsA_vVY" width="400">
 
-## 2021
+<center><h1>2021 </h1> </center>
 
 ### Runner up - 
 - [In the news - 5th Annual Research on Cities Summit 2021](https://shs.xim.edu.in/wp-content/uploads/2021/02/ARCS-5.0-Report.pdf)\
