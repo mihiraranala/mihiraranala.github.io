@@ -4,10 +4,10 @@ title: Mihir Aranala
 subtitle: Awards
 ---
 
-<center><h1>2025 </h1> </center>
-
 
 <center><h1>2024 </h1> </center>
+
+---
 
 ### Best Analytical Presentation Winner - Envisioning Mesa's Transit Future
 AGIC Training and Education Symposium
@@ -19,12 +19,14 @@ AGIC Training and Education Symposium
 
 - [In the news - AECOM Transportation](https://www.linkedin.com/posts/aecomtransportation_agic2024-gis-transitplanning-activity-7244353408718004225-bbqT?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAu2aCkBtWFxNMT7p1icjotTktyKsK1-bbI)
 
+
 <center><h1>2023 </h1> </center>
 
 ### Outstanding MUEP Student, School of Geographical Sciences and Urban Planning
 
 ### Friends of Transit Scholarship, WTS Metro Phoenix Chapter
 
+---
 
 <center><h1>2022 </h1> </center>
 
