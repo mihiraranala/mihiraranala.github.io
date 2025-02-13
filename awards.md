@@ -22,13 +22,16 @@ AGIC Training and Education Symposium
 
 <center><h1>2023 </h1> </center>
 
+---
+
 ### Outstanding MUEP Student, School of Geographical Sciences and Urban Planning
 
 ### Friends of Transit Scholarship, WTS Metro Phoenix Chapter
 
----
 
 <center><h1>2022 </h1> </center>
+
+---
 
 ### Tony Gonzales Scholarship, AGIC
 
@@ -38,11 +41,15 @@ AGIC Training and Education Symposium
 
 <center><h1>2021 </h1> </center>
 
+---
+
 ### Runner up - 
 - [In the news - 5th Annual Research on Cities Summit 2021](https://shs.xim.edu.in/wp-content/uploads/2021/02/ARCS-5.0-Report.pdf)\
 <img src="https://github.com/infinymihir/website/blob/master/assets/img/mihir-arcs.png?raw=true" width="400">
 
-## 2020
+<center><h1>2020 </h1> </center>
+
+---
 
 ### Winner - Architecture Essay Writing Competition
 
