@@ -43,7 +43,7 @@ AGIC Training and Education Symposium
 
 ---
 
-### Runner up - 
+### Runner up - Annual Research on Cities Summit
 - [In the news - 5th Annual Research on Cities Summit 2021](https://shs.xim.edu.in/wp-content/uploads/2021/02/ARCS-5.0-Report.pdf)\
 <img src="https://github.com/infinymihir/website/blob/master/assets/img/mihir-arcs.png?raw=true" width="400">
 
