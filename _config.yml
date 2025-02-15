@@ -35,7 +35,7 @@ navbar-links:
 avatar: "https://media.licdn.com/dms/image/v2/D5603AQGp3lUMulrsWA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1677116826961?e=1744243200&v=beta&t=dJv-le7aqhl6R3cqkNrbvH2gxUAMpqG2alxl8_g-S0E"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: true
+round-avatar: false
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
