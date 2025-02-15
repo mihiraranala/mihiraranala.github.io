@@ -34,11 +34,10 @@ AGIC Training and Education Symposium
 
 ### Tony Gonzales Scholarship, AGIC
 
-### Runner up - Friends of Transit
 <div class="container">
-<img src="https://news.asu.edu/sites/default/files/styles/block_image_16_9_lge/public/0t8a6505_2mp.jpg?itok=ilsA_vVY" width="50">
+<img src="https://news.asu.edu/sites/default/files/styles/block_image_16_9_lge/public/0t8a6505_2mp.jpg?itok=ilsA_vVY" width="150">
 
-<h3> [In the news- ASU planning and sustainability students receive top awards for transportation innovations]</h3>
+<h3> Runner up - Friends of Transit </h3>
 </div>
 
 
