@@ -35,9 +35,13 @@ AGIC Training and Education Symposium
 ### Tony Gonzales Scholarship, AGIC
 
 <div class="container">
-<img src="https://news.asu.edu/sites/default/files/styles/block_image_16_9_lge/public/0t8a6505_2mp.jpg?itok=ilsA_vVY" width="150">
+<div class="image">
+<img src="https://news.asu.edu/sites/default/files/styles/block_image_16_9_lge/public/0t8a6505_2mp.jpg?itok=ilsA_vVY" width="150"></div>
 
+<div class="content">
 <h3> Runner up - Friends of Transit </h3>
+
+</div>
 </div>
 
 
