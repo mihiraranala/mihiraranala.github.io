@@ -29,7 +29,7 @@ AGIC Training and Education Symposium
 ### Friends of Transit Scholarship, WTS Metro Phoenix Chapter
 
 
-<center><h1 class="awards">2022 </h1> </center>
+<center><h1 class="award">2022 </h1> </center>
 
 ---
 
