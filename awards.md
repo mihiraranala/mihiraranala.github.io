@@ -40,7 +40,7 @@ AGIC Training and Education Symposium
 
 <div class="content">
 <h3> Runner up - Friends of Transit </h3>
-
+<p>[In the News] - <a> https://news.asu.edu/sites/default/files/styles/block_image_16_9_lge/public/0t8a6505_2mp.jpg?itok=ilsA_vVY</a></p>
 </div>
 </div>
 
