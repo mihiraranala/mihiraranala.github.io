@@ -2,3 +2,11 @@
     color:#cc4400;
     font-family:Helvetica;
 }
+
+
+.container{
+    display:grid;
+    grid-template-columns: [first] 100px [line2] auto [end];
+    gap:15px;
+
+}

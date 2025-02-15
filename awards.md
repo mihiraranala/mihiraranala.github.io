@@ -16,7 +16,6 @@ AGIC Training and Education Symposium
 AGIC Training and Education Symposium
 
 - [In the news - AGIC Symposium Winners ](https://sites.google.com/azdot.gov/agicsymposiumawardwinners/2024-award-winners?authuser=0) 
-
 - [In the news - AECOM Transportation](https://www.linkedin.com/posts/aecomtransportation_agic2024-gis-transitplanning-activity-7244353408718004225-bbqT?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAu2aCkBtWFxNMT7p1icjotTktyKsK1-bbI)
 
 
@@ -36,8 +35,13 @@ AGIC Training and Education Symposium
 ### Tony Gonzales Scholarship, AGIC
 
 ### Runner up - Friends of Transit
-- [In the news- ASU planning and sustainability students receive top awards for transportation innovations](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjAjvXo9bqLAxWkI0QIHWqXFggQFnoECAYQAQ&url=https%3A%2F%2Fnews.asu.edu%2F20220304-asu-planning-and-sustainability-students-receive-top-awards-transportation-innovations&usg=AOvVaw1MK87YHm0f6nNQznqJeXhy&opi=89978449)\
+<div class="container">
 <img src="https://news.asu.edu/sites/default/files/styles/block_image_16_9_lge/public/0t8a6505_2mp.jpg?itok=ilsA_vVY" width="400">
+
+- [In the news- ASU planning and sustainability students receive top awards for transportation innovations](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjAjvXo9bqLAxWkI0QIHWqXFggQFnoECAYQAQ&url=https%3A%2F%2Fnews.asu.edu%2F20220304-asu-planning-and-sustainability-students-receive-top-awards-transportation-innovations&usg=AOvVaw1MK87YHm0f6nNQznqJeXhy&opi=89978449)\
+</div>
+
+
 
 <center><h1>2021 </h1> </center>
 
