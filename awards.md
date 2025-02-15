@@ -16,7 +16,7 @@ AGIC Training and Education Symposium
 AGIC Training and Education Symposium
 
 - [In the news - AGIC Symposium Winners ](https://sites.google.com/azdot.gov/agicsymposiumawardwinners/2024-award-winners?authuser=0) 
-- [In the news - AECOM Transportation](https://www.linkedin.com/posts/aecomtransportation_agic2024-gis-transitplanning-activity-7244353408718004225-bbqT?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAu2aCkBtWFxNMT7p1icjotTktyKsK1-bbI)
+- [In the news - AECOM Transportation LinkedIn](https://www.linkedin.com/posts/aecomtransportation_agic2024-gis-transitplanning-activity-7244353408718004225-bbqT?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAu2aCkBtWFxNMT7p1icjotTktyKsK1-bbI)
 
 
 <center><h1>2023 </h1> </center>
@@ -31,7 +31,7 @@ The WTS Metropolitan Phoenix Chapter offers scholarships to assist qualified can
 
 
 
-- [In the news](https://www.wtsinternational.org/chapters/metro-phoenix/scholarships/2023-scholarship-recipients)
+- [In the news - WTS International](https://www.wtsinternational.org/chapters/metro-phoenix/scholarships/2023-scholarship-recipients)
 
 <center><h1>2022 </h1> </center>
 
@@ -44,9 +44,9 @@ Awarded the Tony Gonzales Scholarship to attend the 2022 AGIC Training And Educa
 ### Runner up - Friends of Transit
 Presented ideas on improving transit ridership post-pandemic. 
 
-- [In the News](https://news.asu.edu/sites/default/files/styles/block_image_16_9_lge/public/0t8a6505_2mp.jpg?itok=ilsA_vVY)
+- [In the News - ASU News](https://news.asu.edu/sites/default/files/styles/block_image_16_9_lge/public/0t8a6505_2mp.jpg?itok=ilsA_vVY)
 
-<img src="https://news.asu.edu/sites/default/files/styles/block_image_16_9_lge/public/0t8a6505_2mp.jpg?itok=ilsA_vVY" width="200">
+<img src="https://news.asu.edu/sites/default/files/styles/block_image_16_9_lge/public/0t8a6505_2mp.jpg?itok=ilsA_vVY" width="400">
 
 
 <center><h1>2021 </h1> </center>
