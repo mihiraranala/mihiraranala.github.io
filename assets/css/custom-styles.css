@@ -11,3 +11,11 @@
     gap:15px;
 
 }
+
+.container > div.image {
+    grid-area: image;
+  }
+
+.container > div.content {
+grid-area: content;
+}
