@@ -5,8 +5,8 @@
 
 
 .container{
-    display:grid;
     grid-template-columns: [first] 100px [line2] auto [end];
-    gap:15px;
+    grid-template-areas:
+    "image content";
 
 }
