@@ -24,25 +24,29 @@ AGIC Training and Education Symposium
 ---
 
 ### Outstanding MUEP Student, School of Geographical Sciences and Urban Planning
+Awarded the outstanding MUEP award for contributions to the department
 
 ### Friends of Transit Scholarship, WTS Metro Phoenix Chapter
+The WTS Metropolitan Phoenix Chapter offers scholarships to assist qualified candidates aspiring to transportation careers.
 
 
-<center><h1 class="award">2022 </h1> </center>
+
+- [In the news](https://www.wtsinternational.org/chapters/metro-phoenix/scholarships/2023-scholarship-recipients)
+
+<center><h1>2022 </h1> </center>
 
 ---
 
 ### Tony Gonzales Scholarship, AGIC
+Awarded the Tony Gonzales Scholarship to attend the 2022 AGIC Training And Education Symposium at Prescott, Arizona 
 
-<div class="container">
-<div class="image">
-<img src="https://news.asu.edu/sites/default/files/styles/block_image_16_9_lge/public/0t8a6505_2mp.jpg?itok=ilsA_vVY" width="150"></div>
 
-<div class="content">
-<h3> Runner up - Friends of Transit </h3>
-<p>[In the News] - <a> https://news.asu.edu/sites/default/files/styles/block_image_16_9_lge/public/0t8a6505_2mp.jpg?itok=ilsA_vVY</a></p>
-</div>
-</div>
+### Runner up - Friends of Transit
+Presented ideas on improving transit ridership post-pandemic. 
+
+- [In the News](https://news.asu.edu/sites/default/files/styles/block_image_16_9_lge/public/0t8a6505_2mp.jpg?itok=ilsA_vVY)
+
+<img src="https://news.asu.edu/sites/default/files/styles/block_image_16_9_lge/public/0t8a6505_2mp.jpg?itok=ilsA_vVY" width="200">
 
 
 <center><h1>2021 </h1> </center>
