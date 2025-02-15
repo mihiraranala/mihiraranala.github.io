@@ -36,11 +36,10 @@ AGIC Training and Education Symposium
 
 ### Runner up - Friends of Transit
 <div class="container">
-<img src="https://news.asu.edu/sites/default/files/styles/block_image_16_9_lge/public/0t8a6505_2mp.jpg?itok=ilsA_vVY" width="400">
+<img src="https://news.asu.edu/sites/default/files/styles/block_image_16_9_lge/public/0t8a6505_2mp.jpg?itok=ilsA_vVY" width="50">
 
-- [In the news- ASU planning and sustainability students receive top awards for transportation innovations](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjAjvXo9bqLAxWkI0QIHWqXFggQFnoECAYQAQ&url=https%3A%2F%2Fnews.asu.edu%2F20220304-asu-planning-and-sustainability-students-receive-top-awards-transportation-innovations&usg=AOvVaw1MK87YHm0f6nNQznqJeXhy&opi=89978449)\
+<h3> [In the news- ASU planning and sustainability students receive top awards for transportation innovations]</h3>
 </div>
-
 
 
 <center><h1>2021 </h1> </center>
