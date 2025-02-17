@@ -67,4 +67,4 @@ Presented ideas on improving transit ridership post-pandemic.
 
 <img src="https://thearchitectsdiary.com/wp-content/uploads/2020/12/Screenshot-2020-12-18-at-12.17.32-PM-1024x735.png" width="400">
 
-- [Read the Essay Here](https://linktoessat)
+- [Read the Essay Here](https://linktoessay)
