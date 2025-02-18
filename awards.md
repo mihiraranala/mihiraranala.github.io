@@ -65,7 +65,7 @@ Presented ideas on improving transit ridership post-pandemic.
 
 ### Winner - Architecture Essay Writing Competition
 
-- [In the news - Winners Announced For The Architectural Essay Writing Competition 2020 Conducted By IDHA Labs](https://thearchitectsdiary.com/winners-announced-for-the-architectural-essay-writing-competition-2020-conducted-by-idha-labs/)\
+- [In the news - Winners Announced For The Architectural Essay Writing Competition 2020 Conducted By IDHA Labs](https://thearchitectsdiary.com/winners-announced-for-the-architectural-essay-writing-competition-2020-conducted-by-idha-labs/)
 
 <img src="https://thearchitectsdiary.com/wp-content/uploads/2020/12/Screenshot-2020-12-18-at-12.17.32-PM-1024x735.png" width="400">
 
