@@ -11,8 +11,8 @@ subtitle: Awards
 
 ### Best Analytical Presentation Winner - Envisioning Mesa's Transit Future
 AGIC Training and Education Symposium
-
-<img src="https://github.com/infinymihir/website/blob/master/assets/img/IMG_7546.JPG?raw=true" width="400">
+<center>
+<img src="https://github.com/infinymihir/website/blob/master/assets/img/IMG_7546.JPG?raw=true" width="400"></center>
 
 ### Best Application Winner - Neighborhood Transit Study Community Engagement Application
 AGIC Training and Education Symposium
