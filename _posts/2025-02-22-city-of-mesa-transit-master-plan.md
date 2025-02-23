@@ -1,11 +1,11 @@
 ---
 layout: post
 title: City of Mesa Transit Master Plan
-subtitle: Excerpt from Soulshaping by Jeff Brown
+subtitle: GIS and Data Analysis Lead 
 cover-img: "https://ehq-production-us-california.imgix.net/4e2d089a2ed1170fd1f8c98864d7bb5f24f5349d/original/1703694304/284819422cb4f4c3f6b4d5ba22a5dafa_website_New_Local_Routes.png?auto=compress"
 thumbnail-img: "https://ehq-production-us-california.imgix.net/4e2d089a2ed1170fd1f8c98864d7bb5f24f5349d/original/1703694304/284819422cb4f4c3f6b4d5ba22a5dafa_website_New_Local_Routes.png?auto=compress"
 share-img: /assets/img/path.jpg
-tags: [projects, test]
+tags: [projects]
 author: Mihir Sriram Aranala
 ---
 
