@@ -48,7 +48,7 @@ Presented ideas on improving transit ridership post-pandemic.
 
 - [In the News - ASU News](https://news.asu.edu/sites/default/files/styles/block_image_16_9_lge/public/0t8a6505_2mp.jpg?itok=ilsA_vVY)
 
-<img src="https://news.asu.edu/sites/default/files/styles/block_image_16_9_lge/public/0t8a6505_2mp.jpg?itok=ilsA_vVY" width="400">
+<center><img src="https://news.asu.edu/sites/default/files/styles/block_image_16_9_lge/public/0t8a6505_2mp.jpg?itok=ilsA_vVY" ></center>
 
 
 <center><h1>2021 </h1> </center>
@@ -57,7 +57,9 @@ Presented ideas on improving transit ridership post-pandemic.
 
 ### Runner up - Annual Research on Cities Summit
 - [In the news - 5th Annual Research on Cities Summit 2021](https://shs.xim.edu.in/wp-content/uploads/2021/02/ARCS-5.0-Report.pdf)\
-<img src="https://github.com/infinymihir/website/blob/master/assets/img/mihir-arcs.png?raw=true" width="400">
+
+<center>
+<img src="https://github.com/infinymihir/website/blob/master/assets/img/mihir-arcs.png?raw=true"></center>
 
 <center><h1>2020 </h1> </center>
 
@@ -67,6 +69,6 @@ Presented ideas on improving transit ridership post-pandemic.
 
 - [In the news - Winners Announced For The Architectural Essay Writing Competition 2020 Conducted By IDHA Labs](https://thearchitectsdiary.com/winners-announced-for-the-architectural-essay-writing-competition-2020-conducted-by-idha-labs/)
 
-<img src="https://thearchitectsdiary.com/wp-content/uploads/2020/12/Screenshot-2020-12-18-at-12.17.32-PM-1024x735.png" width="400">
+<center><img src="https://thearchitectsdiary.com/wp-content/uploads/2020/12/Screenshot-2020-12-18-at-12.17.32-PM-1024x735.png" ></center>
 
 - [Read the Essay Here](https://linktoessay)
