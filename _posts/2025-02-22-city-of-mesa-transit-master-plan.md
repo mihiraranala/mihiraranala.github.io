@@ -3,10 +3,10 @@ layout: post
 title: City of Mesa Transit Master Plan
 subtitle: Excerpt from Soulshaping by Jeff Brown
 cover-img: "https://ehq-production-us-california.imgix.net/4e2d089a2ed1170fd1f8c98864d7bb5f24f5349d/original/1703694304/284819422cb4f4c3f6b4d5ba22a5dafa_website_New_Local_Routes.png?auto=compress"
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: "https://ehq-production-us-california.imgix.net/4e2d089a2ed1170fd1f8c98864d7bb5f24f5349d/original/1703694304/284819422cb4f4c3f6b4d5ba22a5dafa_website_New_Local_Routes.png?auto=compress"
 share-img: /assets/img/path.jpg
-tags: [books, test]
-author: Sharon Smith and Barry Simpson
+tags: [projects, test]
+author: Mihir Sriram Aranala
 ---
 
 Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?
