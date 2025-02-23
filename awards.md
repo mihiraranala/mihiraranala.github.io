@@ -56,7 +56,7 @@ Presented ideas on improving transit ridership post-pandemic.
 ---
 
 ### Runner up - Annual Research on Cities Summit
-- [In the news - 5th Annual Research on Cities Summit 2021](https://shs.xim.edu.in/wp-content/uploads/2021/02/ARCS-5.0-Report.pdf)\
+- [In the news - 5th Annual Research on Cities Summit 2021](https://shs.xim.edu.in/wp-content/uploads/2021/02/ARCS-5.0-Report.pdf)
 
 <center>
 <img src="https://github.com/infinymihir/website/blob/master/assets/img/mihir-arcs.png?raw=true"></center>
