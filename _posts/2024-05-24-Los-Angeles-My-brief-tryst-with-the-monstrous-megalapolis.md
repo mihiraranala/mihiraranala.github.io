@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Los Angeles - My brief trist with the monstrous megalapolis
+title: Los Angeles - My brief tryst with the monstrous megalapolis
 subtitle: Blog Post
 cover-img: 
 thumbnail-img:
