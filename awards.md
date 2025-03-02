@@ -77,4 +77,4 @@ Presented ideas on improving transit ridership post-pandemic.
 
 ### Zonal Top 10 - Council of Architecture Excellence Awards
 
-- [Watch the Presentation Here](2024-08-23-COA-excellence-awards) 
+- [Watch the Presentation Here](https://infinymihir.github.io/website/2024-08-23-COA-excellence-awards) 
