@@ -43,17 +43,6 @@ grid-area: content;
     transform: scale(1.05);
   }
 
-  .link-text {
-    text-decoration-line: underline;
-    text-decoration-style: solid;
-    text-decoration-color: #151A30;
-    text-decoration-thickness: 1px;
-  }
-
-  .link-text:hover {
-    background-color: #151A30;
-    text-decoration: none;
-  }
 
   .link-text::before{
   content: "";
@@ -67,3 +56,6 @@ grid-area: content;
   transform: scaleX(0);
   transition: transform 0.3s ease;
 }
+.link-text:hover::before {
+    transform: scaleX(1);
+  }
