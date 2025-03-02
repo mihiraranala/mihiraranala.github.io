@@ -77,9 +77,9 @@ a {
   padding: 1px 6px;
   border: 1px outset buttonborder;
   border-radius: 3px;
+  background-color: #ccc;
   text-decoration: none;
 }
-
 a:hover,
 a:focus {
   color: var(--hover-col);
