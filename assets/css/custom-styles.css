@@ -53,8 +53,7 @@ grid-area: content;
     color: #000;
   }
 
-
-  .link-text::before{
+.link-text::before {
   content: "";
   position: absolute;
   display: block;
@@ -62,10 +61,12 @@ grid-area: content;
   height: 2px;
   bottom: 0;
   left: 0;
-  background-color: #252664;
+  background-color: #000;
   transform: scaleX(0);
+  transform-origin: top left;
   transition: transform 0.3s ease;
 }
+
 .link-text:hover::before {
     transform: scaleX(1);
   }
