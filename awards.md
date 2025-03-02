@@ -72,7 +72,7 @@ Presented ideas on improving transit ridership post-pandemic.
 
 <center><img src="https://thearchitectsdiary.com/wp-content/uploads/2020/12/Screenshot-2020-12-18-at-12.17.32-PM-1024x735.png" ></center>
 
-<a class="link-text" href="">Read the Essay Here </a>
+<a class="link-text" href="https://infinymihir.github.io/website/2020-10-13-Are-We-Designing-Smart-Cities-or-Smart-Looking-Cities">Read the Essay Here </a>
 
 
 
