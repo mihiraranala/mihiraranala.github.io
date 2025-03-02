@@ -34,7 +34,7 @@ The WTS Metropolitan Phoenix Chapter offers scholarships to assist qualified can
 
 
 
-- [In the news - WTS International](https://www.wtsinternational.org/chapters/metro-phoenix/scholarships/2023-scholarship-recipients)
+<a class="link-text" href="https://www.wtsinternational.org/chapters/metro-phoenix/scholarships/2023-scholarship-recipients"> In the news - WTS International</a>
 
 <center><h1>2022 </h1> </center>
 
@@ -47,7 +47,7 @@ Awarded the Tony Gonzales Scholarship to attend the 2022 AGIC Training And Educa
 ### Runner up - Friends of Transit
 Presented ideas on improving transit ridership post-pandemic. 
 
-- [In the News - ASU News](https://news.asu.edu/sites/default/files/styles/block_image_16_9_lge/public/0t8a6505_2mp.jpg?itok=ilsA_vVY)
+<a class="link-text" href="https://news.asu.edu/sites/default/files/styles/block_image_16_9_lge/public/0t8a6505_2mp.jpg?itok=ilsA_vVY"> In the News - ASU News</a>
 
 <center><img src="https://news.asu.edu/sites/default/files/styles/block_image_16_9_lge/public/0t8a6505_2mp.jpg?itok=ilsA_vVY" ></center>
 
@@ -57,7 +57,7 @@ Presented ideas on improving transit ridership post-pandemic.
 ---
 
 ### Runner up - Annual Research on Cities Summit
-- [In the news - 5th Annual Research on Cities Summit 2021](https://shs.xim.edu.in/wp-content/uploads/2021/02/ARCS-5.0-Report.pdf)
+<a class="link-text" href="https://shs.xim.edu.in/wp-content/uploads/2021/02/ARCS-5.0-Report.pdf"> In the news - 5th Annual Research on Cities Summit 2021</a>
 
 <center>
 <img src="https://github.com/infinymihir/website/blob/master/assets/img/mihir-arcs.png?raw=true"></center>
@@ -68,14 +68,14 @@ Presented ideas on improving transit ridership post-pandemic.
 
 ### Winner - Architecture Essay Writing Competition
 
-- [In the news - Winners Announced For The Architectural Essay Writing Competition 2020 Conducted By IDHA Labs](https://thearchitectsdiary.com/winners-announced-for-the-architectural-essay-writing-competition-2020-conducted-by-idha-labs/)
+<a class="link-text" href="https://thearchitectsdiary.com/winners-announced-for-the-architectural-essay-writing-competition-2020-conducted-by-idha-labs/">In the news - Winners Announced For The Architectural Essay Writing Competition 2020 Conducted By IDHA Labs</a>
 
 <center><img src="https://thearchitectsdiary.com/wp-content/uploads/2020/12/Screenshot-2020-12-18-at-12.17.32-PM-1024x735.png" ></center>
 
-- [Read the Essay Here](https://linktoessay)
+<a class="link-text" href="">Read the Essay Here </a>
 
 
 
 ### Zonal Top 10 - Council of Architecture Excellence Awards
 
-- [Watch the Presentation Here](https://infinymihir.github.io/website/2024-08-23-COA-excellence-awards) 
+<a class="link-text" href="https://infinymihir.github.io/website/2024-08-23-COA-excellence-awards">Watch the Presentation Here</a>
