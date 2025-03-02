@@ -2,7 +2,7 @@
 layout: post
 title: City of Phoenix Neighborhood Transit Study
 subtitle: Transportation Planner 
-cover-img: nts-study-areas.jpeg
+cover-img: /assets/img/nts-study-areas.jpeg
 thumbnail-img:
 share-img: /assets/img/path.jpg
 tags: [projects]
