@@ -36,56 +36,28 @@ Check out my latest podcast episode where I share my journey from being an inter
 
 ## Gallery Section
 
-{% for post in posts %}
-  {%- capture thumbnail -%}
-    {% if post.thumbnail-img %}
-      {{ post.thumbnail-img }}
-    {% elsif post.cover-img %}
-      {% if post.cover-img.first %}
-        {{ post.cover-img[0].first.first }}
+<div class="gallery">
+  {% for post in posts %}
+    {%- capture thumbnail -%}
+      {% if post.thumbnail-img %}
+        {{ post.thumbnail-img }}
+      {% elsif post.cover-img %}
+        {% if post.cover-img.first %}
+          {{ post.cover-img[0].first.first }}
+        {% else %}
+          {{ post.cover-img }}
+        {% endif %}
       {% else %}
-        {{ post.cover-img }}
       {% endif %}
-    {% else %}
+    {% endcapture %}
+    {% assign thumbnail=thumbnail | strip %}
+
+    {% if thumbnail != "" %}
+    <div class="gallery-item">
+      <a href="{{ post.url | absolute_url }}">
+        <img src="{{ thumbnail | absolute_url }}" alt="Project image">
+      </a>
+    </div>
     {% endif %}
-  {% endcapture %}
-  {% assign thumbnail=thumbnail | strip %}
-
-  {% if thumbnail != "" %}
-  ![Project image]({{ thumbnail | absolute_url }})
-  [View Project]({{ post.url | absolute_url }})
-  {% endif %}
-{% endfor %}
-
-## Project Postså
-
-{% for post in posts %}
-### [{{ post.title | strip_html }}]({{ post.url | absolute_url }})
-
-{% if post.subtitle %}
-#### {{ post.subtitle | strip_html }}
-{% endif %}
-
-**By:** {{ post.author | strip_html }}  
-**Posted on:** {{ post.date | date: site.date_format | default: "%B %-d, %Y" }}
-
-{{ post.excerpt | strip_html | truncatewords: site.excerpt_length | default: 50 }}
-
-[Read More]({{ post.url | absolute_url }})
-
----
-{% endfor %}
-
-{% if paginator.total_pages > 1 %}
-
-### Pagination
-
-{% if paginator.previous_page %}
-[← Newer Posts]({{ paginator.previous_page_path | absolute_url }})
-{% endif %}
-
-{% if paginator.next_page %}
-[Older Posts →]({{ paginator.next_page_path | absolute_url }})
-{% endif %}
-
-{% endif %}
+  {% endfor %}
+</div>
