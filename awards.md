@@ -17,7 +17,7 @@ AGIC Training and Education Symposium
 ### Best Application Winner - Neighborhood Transit Study Community Engagement Application
 AGIC Training and Education Symposium
 
-- [In the news - AGIC Symposium Winners ](https://sites.google.com/azdot.gov/agicsymposiumawardwinners/2024-award-winners?authuser=0) 
+<a class="link-text" href="https://sites.google.com/azdot.gov/agicsymposiumawardwinners/2024-award-winners?authuser=0"> In the news - AGIC Symposium Winners </a> 
 - [In the news - AECOM Transportation LinkedIn](https://www.linkedin.com/posts/aecomtransportation_agic2024-gis-transitplanning-activity-7244353408718004225-bbqT?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAu2aCkBtWFxNMT7p1icjotTktyKsK1-bbI)
 
 
