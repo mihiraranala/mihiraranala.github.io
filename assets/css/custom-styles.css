@@ -45,7 +45,7 @@ grid-area: content;
 
   .link-text {
     position: relative;
-    color: #000;
+    color: #252664;
     text-decoration: none;
   }
   
@@ -62,7 +62,7 @@ grid-area: content;
   height: 2px;
   bottom: 0;
   left: 0;
-  background-color: #000;
+  background-color: #252664;
   transform: scaleX(0);
   transition: transform 0.3s ease;
 }
