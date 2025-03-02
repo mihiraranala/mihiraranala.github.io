@@ -47,10 +47,11 @@ grid-area: content;
     position: relative;
     color: #252664;
     text-decoration: none;
+    font-weight: bold;
   }
   
   .link-text:hover {
-    color: #000;
+    color: #9194BA;
   }
 
 .link-text::before {
@@ -58,10 +59,10 @@ grid-area: content;
   position: absolute;
   display: block;
   width: 100%;
-  height: 2px;
+  height: 1em;
   bottom: 0;
   left: 0;
-  background-color: #000;
+  background-color: #252664;
   transform: scaleX(0);
   transform-origin: top left;
   transition: transform 0.3s ease;

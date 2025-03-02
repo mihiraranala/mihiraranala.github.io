@@ -18,7 +18,8 @@ AGIC Training and Education Symposium
 AGIC Training and Education Symposium
 
 <a class="link-text" href="https://sites.google.com/azdot.gov/agicsymposiumawardwinners/2024-award-winners?authuser=0"> In the news - AGIC Symposium Winners </a> 
-- [In the news - AECOM Transportation LinkedIn](https://www.linkedin.com/posts/aecomtransportation_agic2024-gis-transitplanning-activity-7244353408718004225-bbqT?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAu2aCkBtWFxNMT7p1icjotTktyKsK1-bbI)
+
+<a class="link-text" href="https://www.linkedin.com/posts/aecomtransportation_agic2024-gis-transitplanning-activity-7244353408718004225-bbqT?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAu2aCkBtWFxNMT7p1icjotTktyKsK1-bbI">In the news - AECOM Transportation LinkedIn</a>
 
 
 <center><h1>2023 </h1> </center>
