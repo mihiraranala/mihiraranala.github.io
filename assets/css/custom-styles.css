@@ -42,3 +42,12 @@ grid-area: content;
   .gallery-item img:hover {
     transform: scale(1.05);
   }
+
+  .link-text {
+    padding: 1px 6px;
+    border: 1px outset buttonborder;
+    border-radius: 3px;
+    text:#fff;
+    background-color: #151A30;
+    text-decoration: none;
+  }

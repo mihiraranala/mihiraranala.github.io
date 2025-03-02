@@ -74,11 +74,6 @@ h1, h2, h3, h4 {
 }
 a {
   color: var(--link-col);
-  padding: 1px 6px;
-  border: 1px outset buttonborder;
-  border-radius: 3px;
-  background-color: #ccc;
-  text-decoration: none;
 }
 a:hover,
 a:focus {
