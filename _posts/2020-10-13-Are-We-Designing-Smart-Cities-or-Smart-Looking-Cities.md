@@ -51,7 +51,7 @@ The argument of its long-term sustenance and governance presents itself at this 
 If we are to design the cities of tomorrow, we simply ask that our cities be one of our own makings. 
 
 
-**References**\
+**References**
 
 1. Bhan, G. (2013). The real lives of urban fantasies. Environment and Urbanization, 26(1), 232–235. 
 
