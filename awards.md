@@ -72,3 +72,9 @@ Presented ideas on improving transit ridership post-pandemic.
 <center><img src="https://thearchitectsdiary.com/wp-content/uploads/2020/12/Screenshot-2020-12-18-at-12.17.32-PM-1024x735.png" ></center>
 
 - [Read the Essay Here](https://linktoessay)
+
+
+
+### Zonal Top 10 - Council of Architecture Excellence Awards
+
+- [Watch the Presentation Here](2024-08-23-COA-excellence-awards) 
