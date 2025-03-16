@@ -6,7 +6,7 @@ subtitle: Transit planner with a quest for data
 
 <img src="https://media.licdn.com/dms/image/v2/D5603AQGp3lUMulrsWA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1677116826961?e=1744243200&v=beta&t=dJv-le7aqhl6R3cqkNrbvH2gxUAMpqG2alxl8_g-S0E" width="200">
 
-My name is Mihir Sriram Aranala. I am an architect and an urban planner by profession. I am currently pursuing my MBA.
+My name is Mihir Sriram Aranala. I am an architect and an urban planner by profession. I am currently pursuing my MBA (Finance).
 
 Follow this link to my resume - <a class="link-text" href="Resume Mihir Aranala April 2024.pdf"> Here </a>
 
