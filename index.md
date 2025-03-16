@@ -20,7 +20,7 @@ Follow this link to my resume - <a class="link-text" href="Resume Mihir Aranala 
 - I graduate from Arizona State University with a Masters' degree in Urban and Environmental Planning in May 2023.
 - 👀 I’m interested in the intersection of Transport (Rail and Transit) and urban data.
 - 🌱 I’m currently learning Spatial Data Science and Hadoop.
-- 📫 Email me at sriram.mihir@gmail.com
+- 📫 Email me at sriram.mihir@gmail.com.
 
 
 ## GIS Chat Podcast - November 2024
