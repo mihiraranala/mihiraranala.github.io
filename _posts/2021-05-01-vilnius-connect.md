@@ -2,7 +2,7 @@
 layout: post
 title: Vilnis Connect
 subtitle: Competition Entry
-cover-img: "https://vilniusconnect.lt/wp-content/uploads/2021/06/67800-scaled.jpeg"
+cover-img: /assets/img/vilnius-connect.png
 thumbnail-img:
 share-img: /assets/img/path.jpg
 tags: [projects]
