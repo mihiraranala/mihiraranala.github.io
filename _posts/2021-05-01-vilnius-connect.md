@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Vilnis Connect
+title: Vilnius Connect
 subtitle: Competition Entry
 cover-img: /assets/img/vilnius-connect.png
 thumbnail-img:
