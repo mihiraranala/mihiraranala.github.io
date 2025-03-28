@@ -9,6 +9,11 @@ author: Mihir Sriram Aranala
 
 ---
 
+**Introduction**
+
+Astra Zeneca is a British-Swedish pharmaceutical and biotechnology company listed on the London Stock Exchange. It belongs primarily to the pharmaceutical industry. This report examines the company’s financial performance, liquidity, solvency, stock trends, and strategic outlook, comparing it with competitors Merck and Pfizer. The objective is to assess AstraZeneca’s financial health and provide recommendations for sustainable growth.
+
+
 **Profit and Loss Statement**
 
 The latest annual report was submitted for the FY ending December 31, 2023. The following is a breakdown of the P&L statement.
