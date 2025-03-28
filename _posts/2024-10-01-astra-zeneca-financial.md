@@ -30,13 +30,14 @@ Liquidity is how fast a company can convert an asset to cash or liabilities can 
 
 **Cash Flow Statement**
 
-AstraZeneca’s net cash inflow from operating activities was $10,435 million as of FY 2023, which included profits before tax, finance income, gains on assets and investments disposal, etc. Net cash inflow was almost double of its FY 2021 value of $5,963 million indicating a higher profits and higher gains. Net cash outflow from investing activities amounted to $4,064 million, which included acquisition of subsidiaries, purchase of property, disposal of non-current assets, etc.
-Net cash flow from financing activities amounted to $6,657 million, which included payment of dividends, repayment of loans and borrowings, hedge contracts, etc. The cash and cash equivalents at the end of FY 2023 was $5,637, which was a 6.6% drop from FY 2021’s value of $6,038 million. This indicates that the company is spending more for its operations than the money it received in FY 2023 compared to FY 2021. AstraZeneca's earnings per cash profit (EPCP) have increased by 50.76% to £6.33, which indicates a strong cash flow generation (Khorshidi et al., 2024).
+AstraZeneca’s net cash inflow from operating activities was $10,435 million as of FY 2023, which included profits before tax, finance income, gains on assets and investments disposal, etc. Net cash inflow was almost double of its FY 2021 value of $5,963 million indicating a higher profits and higher gains. Net cash outflow from investing activities amounted to $4,064 million, which included acquisition of subsidiaries, purchase of property, disposal of non-current assets, etc. Net cash flow from financing activities amounted to $6,657 million, which included payment of dividends, repayment of loans and borrowings, hedge contracts, etc. The cash and cash equivalents at the end of FY 2023 was $5,637, which was a 6.6% drop from FY 2021’s value of $6,038 million. This indicates that the company is spending more for its operations than the money it received in FY 2023 compared to FY 2021. AstraZeneca's earnings per cash profit (EPCP) have increased by 50.76% to £6.33, which indicates a strong cash flow generation (Khorshidi et al., 2024).
+
 **Stock Price Trend**
 
 AstraZeneca (sticker symbol: AZN) was trading at $65.63 as of November 22, 2024. During the 5-year period, the stock price grew by 35.3% from $48.48 in 2019.  In the last one year, while the global pharmaceutical market grew by 2.2%, AstraZeneca grew by 5%, indicating a healthy performance compared to other players. The lowest price for this period was $39.42 in 2020 and the highest stock price was $86.66 in late 2024. The stock has been stable in the last five years as well with a revenue CAGR of 15.7%. In the past month, AstraZeneca’s stock price decreased by almost 8% following news that top Chinese executives were involved in fraud investigations (Manalac, 2024).
 
 **Analysts’ Recommendations**
+
 Morningstar analysts (Morningstar, 2024) say that the company has a large presence in emerging markets which should benefit from the growing markets. The stock is expected to grow and has a target price of $87.67, therefore has a strong buy rating across multiple analysts. AZN also has a huge amount of debt, which brings a bearish perspective from analysts. With the high debt-to-equity ratio, the bearish recommendations are valid. Emerging Estimated glomerular filtration rate (eGFR) drugs might affect the high-selling drug Tagrisso. There are also many legal concerns over the development of some rare disease drugs. 
 
 **Financial Forecasting**
@@ -44,10 +45,17 @@ Morningstar analysts (Morningstar, 2024) say that the company has a large presen
 Mainly, once the new drugs which are currently in the pipeline are released to the market in the next 3-5 years, they can bring in positive cash flows which will impact the profits and help relieve some of the current liabilities.  Their debt is also high compared to their equity, so the focus should be on getting rid of the long-term debt whilst maintaining financial health (Simply Wall St, n.d.). More budget can be allocated for R&D which will help diversify their portfolio and increase the cashflow from multiple drugs. Although there have not been studies that provide the link between R&D investment and returns, a study shows that by doubling the R&D spending and reducing government risk, the pharmaceutical industry can contribute up to 3% of the GDP (Koijen et al, 2016). AI is also playing a key role in pharmaceutical industry from drug discovery to drug development to clinical trials. Optimizing the drug development process, creating better marketing, and customizing drugs based on the demographic segmentation of the patients can help reduce the cost of sales and marketing and improve profits for AstraZeneca (Vora et al., 2023).
 
 **References**
+
 AstraZeneca. (2024, February 20). Form 20‐F. Retrieved from SEC.gov.
+
 Koijen, R. S. J., Philipson, T. J., & Uhlig, H. (2016). Financial Health Economics. Econometrica, 84(1), 195–242. https://doi.org/10.3982/ECTA11182
+
 Manalac, T. (2024, November 6). AstraZeneca’s Stock Price Takes a Hit as China Chief Investigated for Insurance Fraud. BioSpace. https://www.biospace.com/business/astrazenecas-stock-price-takes-a-hit-as-china-chief-investigated-for-insurance-fraud
+
 Morningstar. (2024, November 17). AstraZeneca. Stock Analysis.
+
 NasdaqGS (2024, November 1). AstraZeneca Plc. stock quote. Yahoo! Finance. https://finance.yahoo.com/quote/AZN/
+
 Simply Wall St. (n.d.). AstraZeneca (LSE:AZN)—Stock Price, News & Analysis. Simply Wall St. Retrieved November 22, 2024, from https://simplywall.st/stocks/gb/pharmaceuticals-biotech/lse-azn/astrazeneca-shares
+
 Vora, L. K., Gholap, A. D., Jetha, K., Thakur, R. R. S., Solanki, H. K., & Chavda, V. P. (2023). Artificial Intelligence in Pharmaceutical Technology and Drug Delivery Design. Pharmaceutics, 15(7), 1916. https://doi.org/10.3390/pharmaceutics15071916
