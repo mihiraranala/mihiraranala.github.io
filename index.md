@@ -1,25 +1,25 @@
 ---
 layout: page
-title: Mihir Aranala
+title: Mihir Aranala, GISP
 subtitle: Transit planner with a quest for data
 ---
 
 <img src="https://media.licdn.com/dms/image/v2/D5603AQHgpN7dYiHc2w/profile-displayphoto-shrink_800_800/B56ZZFNTbbGQAc-/0/1744917837883?e=1752710400&v=beta&t=r7SRdBbkhH94TnZFeB0LLiVxNkNhJoj7TkOzQL5hoyU" width="200">
 
-My name is Mihir Sriram Aranala. I am an architect and an urban planner by profession. I am currently pursuing my MBA.
+My name is Mihir Sriram Aranala. I am an architect and an urban planner by profession. I am currently pursuing my MBA (Finance).
 
 Follow this link to my resume - <a class="link-text" href="Resume Mihir Aranala April 2024.pdf"> Here </a>
 
 
 - I am a Transportation Planner at AECOM.
 - I am currently a deputy project manager.
+- I received my GISP certifcation in March 2025.
 - My experience lies in data and spatial analysis, mapping, systems analysis, service and operations planning, and the use of various innovative tools.
 - I assist in transit, microtransit, BRT, and bike planning through data, spatial analysis and report writing.
 - I hold a Bachelor's degree in Architecture from Manipal Academy of Higher Education, India.
 - I spent a semester in Umea, Sweden learning about Swedish architecture, urban design, and housing.
 - I graduate from Arizona State University with a Masters' degree in Urban and Environmental Planning in May 2023.
 - 👀 I’m interested in the intersection of Transport (Rail and Transit) and urban data.
-- 🌱 I’m currently learning Spatial Data Science and Hadoop.
 - 📫 Email me at sriram.mihir@gmail.com
 
 
