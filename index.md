@@ -4,7 +4,7 @@ title: Mihir Aranala, GISP
 subtitle: Transit planner with a quest for data
 ---
 
-<img src="https://media.licdn.com/dms/image/v2/D5603AQGp3lUMulrsWA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1677116826961?e=1744243200&v=beta&t=dJv-le7aqhl6R3cqkNrbvH2gxUAMpqG2alxl8_g-S0E" width="200">
+<img src="https://media.licdn.com/dms/image/v2/D5603AQGp3lUMulrsWA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1677116826961?e=1744243200&v=beta&t=dJv-le7aqhl6R3cqkNrbvH2gxUAMpqG2alxl8_g-S0E"](https://media.licdn.com/dms/image/v2/D5603AQHgpN7dYiHc2w/profile-displayphoto-shrink_800_800/B56ZZFNTbbGQAc-/0/1744917837883?e=1755129600&v=beta&t=_1uvo0Od8JLPDzwaqJrqb7X2Ht0WG-1msZO7LFI4QcA" width="200">
 
 My name is Mihir Sriram Aranala. I am an architect and an urban planner by profession. I am currently pursuing my MBA (Finance).
 
