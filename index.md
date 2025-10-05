@@ -19,7 +19,7 @@ Follow this link to my resume - <a class="link-text" href="Resume Mihir Aranala 
 - I spent a semester in Umea, Sweden learning about Swedish architecture, urban design, and housing.
 - I graduate from Arizona State University with a Masters' degree in Urban and Environmental Planning in May 2023.
 - 👀 I’m interested in the intersection of Transport (Rail and Transit) and urban data.
-- 📫 Email me at sriram.mihir@gmail.com
+- 📫 Email me at mihir.planning@gmail.com
 
 
 ## Arizona Forward Emerging Sustainability Leaders Program - September 2025
