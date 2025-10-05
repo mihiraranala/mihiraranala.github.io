@@ -32,8 +32,8 @@ Mihir Aranala was selected for the Emerging Sustainability Leaders Program condu
 
 ## AGIC Symposium Presentation - August 2025
 
-<img src="https://arizonaforward.org/wp-content/uploads/2025/09/2025-2026-Emerging-Sustainability-Leaders.jpg" alt="Mihir Aranala - Arizona Forward Emerging Sustainabiltiy Leaders" width="500"/> <br>
-Mihir Aranala was selected for the Emerging Sustainability Leaders Program conducted by Arizona Forward.
+<img src="https://storymaps.arcgis.com/stories/06baa0c0a6714e20b4167ae9ac08d468" alt="Mihir Aranala - AGIC Presentation" width="500"/> <br>
+Mihir Aranala presented at the Arizona Geographic Information Council Training Symposium 2025.
 
 <a class="link-text" href="https://acrobat.adobe.com/id/urn:aaid:sc:US:3747fa45-b573-4a9b-9a86-5a5274be78dd"> Meet the Program Cohort</a>
 
