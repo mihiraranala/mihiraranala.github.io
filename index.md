@@ -4,7 +4,7 @@ title: Mihir Aranala, GISP
 subtitle: Transit planner with a quest for data
 ---
 
-<img src="https://media.licdn.com/dms/image/v2/D5603AQGp3lUMulrsWA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1677116826961?e=1744243200&v=beta&t=dJv-le7aqhl6R3cqkNrbvH2gxUAMpqG2alxl8_g-S0E" width="200">
+<img src="https://mihiraranala.github.io/assets/img/Mihir Sriram Aranala Headshot.jpg" width="200">
 
 My name is Mihir Sriram Aranala. I am an architect and an urban planner by profession. I am currently pursuing my MBA (Finance).
 
@@ -25,7 +25,7 @@ Follow this link to my resume - <a class="link-text" href="Resume Mihir Aranala 
 
 ## Arizona Forward Emerging Sustainability Leaders Program - September 2025
 
-<img src="https://acrobat.adobe.com/id/urn:aaid:sc:US:3747fa45-b573-4a9b-9a86-5a5274be78dd" alt="Mihir Aranala - Arizona Forward Emerging Sustainabiltiy Leaders" width="200"/> <br>
+<img src="https://arizonaforward.org/wp-content/uploads/2025/09/2025-2026-Emerging-Sustainability-Leaders.jpg" alt="Mihir Aranala - Arizona Forward Emerging Sustainabiltiy Leaders" width="200"/> <br>
 Check out my latest podcast episode where I share my journey from being an intern to a full-time Transportation Planner at AECOM. I talk about the importance of public transit and how my experiences in India have shaped my drive journey. Tune in for an insightful conversation!
 
 
