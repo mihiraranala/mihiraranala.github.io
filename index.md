@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mihir Aranala, GISP
+title: Mihir Sriram Aranala, GISP
 subtitle: Transit planner with a quest for data
 ---
 
