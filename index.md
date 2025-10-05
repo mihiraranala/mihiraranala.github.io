@@ -32,10 +32,10 @@ Mihir Aranala was selected for the Emerging Sustainability Leaders Program condu
 
 ## AGIC Symposium Presentation - August 2025
 
-<img src="https://storymaps.arcgis.com/stories/06baa0c0a6714e20b4167ae9ac08d468" alt="Mihir Aranala - AGIC Presentation" width="500"/> <br>
+<img src="https://mihiraranala.github.io/assets/img/mihir-aranala-presentation.png" alt="Mihir Aranala - AGIC Presentation" width="500"/> <br>
 Mihir Aranala presented at the Arizona Geographic Information Council Training Symposium 2025.
 
-<a class="link-text" href="https://acrobat.adobe.com/id/urn:aaid:sc:US:3747fa45-b573-4a9b-9a86-5a5274be78dd"> Meet the Program Cohort</a>
+<a class="link-text" href="https://storymaps.arcgis.com/stories/06baa0c0a6714e20b4167ae9ac08d468"> Check out the AGIC Q4 Newsletter</a>
 
 ## GIS Chat Podcast - November 2024
 
