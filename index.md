@@ -25,12 +25,11 @@ Follow this link to my resume - <a class="link-text" href="Resume Mihir Aranala 
 
 ## Arizona Forward Emerging Sustainability Leaders Program - September 2025
 
-<img src="https://arizonaforward.org/wp-content/uploads/2025/09/2025-2026-Emerging-Sustainability-Leaders.jpg" alt="Mihir Aranala - Arizona Forward Emerging Sustainabiltiy Leaders" width="200"/> <br>
-Check out my latest podcast episode where I share my journey from being an intern to a full-time Transportation Planner at AECOM. I talk about the importance of public transit and how my experiences in India have shaped my drive journey. Tune in for an insightful conversation!
+<img src="https://arizonaforward.org/wp-content/uploads/2025/09/2025-2026-Emerging-Sustainability-Leaders.jpg" alt="Mihir Aranala - Arizona Forward Emerging Sustainabiltiy Leaders" width="500"/> <br>
+Mihir Aranala was selected for the Emerging Sustainability Leaders Program conducted by Arizona Forward.
 
 
 <a class="link-text" href="https://acrobat.adobe.com/id/urn:aaid:sc:US:3747fa45-b573-4a9b-9a86-5a5274be78dd"> Meet the Program Cohort</a>
-<a class="link-text" href="https://podcasts.apple.com/us/podcast/mihir-aranala/id1712968933?i=1000675874793">Apple Podcasts</a>
 
 ## GIS Chat Podcast - November 2024
 
