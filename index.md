@@ -28,7 +28,6 @@ Follow this link to my resume - <a class="link-text" href="Resume Mihir Aranala 
 <img src="https://arizonaforward.org/wp-content/uploads/2025/09/2025-2026-Emerging-Sustainability-Leaders.jpg" alt="Mihir Aranala - Arizona Forward Emerging Sustainabiltiy Leaders" width="500"/> <br>
 Mihir Aranala was selected for the Emerging Sustainability Leaders Program conducted by Arizona Forward.
 
-
 <a class="link-text" href="https://acrobat.adobe.com/id/urn:aaid:sc:US:3747fa45-b573-4a9b-9a86-5a5274be78dd"> Meet the Program Cohort</a>
 
 ## GIS Chat Podcast - November 2024
