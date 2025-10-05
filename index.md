@@ -12,7 +12,6 @@ Follow this link to my resume - <a class="link-text" href="Resume Mihir Aranala 
 
 
 - I am a Transportation Planner at AECOM.
-- I am currently a deputy project manager.
 - I received my GISP certifcation in March 2025.
 - My experience lies in data and spatial analysis, mapping, systems analysis, service and operations planning, and the use of various innovative tools.
 - I assist in transit, microtransit, BRT, and bike planning through data, spatial analysis and report writing.
