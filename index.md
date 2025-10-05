@@ -6,7 +6,7 @@ subtitle: Transit planner with a quest for data
 
 <img src="https://mihiraranala.github.io/assets/img/Mihir Sriram Aranala Headshot.jpg" width="200">
 
-My name is Mihir Sriram Aranala. I am an architect and an urban planner by profession. I am currently pursuing my MBA in Finance and Entreprenuership.
+My name is Mihir Sriram Aranala. I am an architect and an urban planner by profession. I am currently pursuing my MBA in Finance and Entreprenuership from School of Business, Westcliff University.
 
 Follow this link to my resume - <a class="link-text" href="Resume Mihir Aranala April 2024.pdf"> Here </a>
 
