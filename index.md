@@ -22,14 +22,6 @@ Follow this link to my resume - <a class="link-text" href="Resume Mihir Aranala 
 - 👀 I’m interested in the intersection of Transport (Rail and Transit) and urban data.
 - 📫 Email me at sriram.mihir@gmail.com
 
-## Arizona Forward Emerging Sustainability Leaders - September 2025
-
-<img src="https://www.buzzsprout.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSGJOc0FVPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--418e44dea1dfa1833563662af194b12e77877435/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3docEFsZ0NhUUpZQW5zR09nbGpjbTl3T2d0alpXNTBjbVU2Q25OaGRtVnlld1k2REhGMVlXeHBkSGxwUVRvUVkyOXNiM1Z5YzNCaFkyVkpJZ2x6Y21kaUJqb0dSVlE9IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--1924d851274c06c8fa0acdfeffb43489fc4a7fcc/1.jpg" alt="Jazzmen Wilson - GIS Chat Podcast" width="200"/> <br>
-
-
-<a class="link-text" href="https://open.spotify.com/episode/0GOUR0gQFtYmXB2iquE971"> Spotify</a>
-<a class="link-text" href="https://podcasts.apple.com/us/podcast/mihir-aranala/id1712968933?i=1000675874793">Apple Podcasts</a>
-
 
 ## GIS Chat Podcast - November 2024
 
