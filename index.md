@@ -22,6 +22,11 @@ Follow this link to my resume - <a class="link-text" href="Resume Mihir Aranala 
 - 📫 Email me at mihir.planning@gmail.com
 
 
+## Arizona Forward Emerging Sustainability Leaders Program
+
+Mihir Aranala graduated from the Emerging Sustainability Leaders Program conducted by Arizona Forward.
+
+
 ## Arizona Forward Emerging Sustainability Leaders Program - September 2025
 
 <img src="https://arizonaforward.org/wp-content/uploads/2025/09/2025-2026-Emerging-Sustainability-Leaders.jpg" alt="Mihir Aranala - Arizona Forward Emerging Sustainabiltiy Leaders" width="500"/> <br>
