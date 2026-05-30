@@ -24,7 +24,7 @@ Follow this link to my resume - <a class="link-text" href="Resume Mihir Aranala 
 
 ## Arizona Forward Emerging Sustainability Leaders Program
 
-<img src="" width="500">
+<img src="https://mihiraranala.github.io/assets/img/AZF_ESL_Graduation_1.jpg" width="500">
 Mihir Aranala graduated from the Emerging Sustainability Leaders Program conducted by Arizona Forward.
 
 
