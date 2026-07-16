@@ -21,6 +21,11 @@ Follow this link to my resume - <a class="link-text" href="Resume Mihir Aranala 
 - 👀 I’m interested in the intersection of Transport (Rail and Transit) and urban data.
 - 📫 Email me at mihir.planning@gmail.com
 
+## Maps Highlighted at ESRI UC 2026 Map Gallery - July 2026
+
+<img src="" alt="Mihir Aranala graduates from the Arizona Forward Emerging Sustainability Leaders Program" width="500"> <br>
+Mihir Aranala's map was selected for the Map Gallery at ESRI UC 2026.
+
 
 ## Arizona Forward Emerging Sustainability Leaders Program - May 2026
 
