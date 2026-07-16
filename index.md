@@ -23,7 +23,7 @@ Follow this link to my resume - <a class="link-text" href="Resume Mihir Aranala 
 
 ## Maps Highlighted at ESRI UC 2026 Map Gallery - July 2026
 
-<img src="https://mihiraranala.github.io/assets/img/ESRI_UC-1.jpg" alt="Mihir Aranala graduates from the Arizona Forward Emerging Sustainability Leaders Program" width="500"> <br>
+<img src="https://mihiraranala.github.io/assets/img/ESRI_UC-1.jpg" alt="Mihir Aranala's maps selected for ESRI UC 2026" width="500"> <br>
 Mihir Aranala's map was selected for the Map Gallery at ESRI UC 2026.
 
 
