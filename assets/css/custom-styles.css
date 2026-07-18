@@ -270,3 +270,176 @@ grid-area: content;
 .link-text:hover::before {
     transform: scaleX(1);
   }
+
+/* Awards page */
+.awards-controls {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  margin-bottom: 28px;
+}
+
+.awards-filter {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.filter-btn {
+  background: transparent;
+  border: 1px solid #9194BA;
+  color: #151A30;
+  border-radius: 20px;
+  padding: 6px 16px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+.filter-btn:hover {
+  background-color: #F2F3F7;
+}
+
+.filter-btn.active {
+  background-color: #252664;
+  border-color: #252664;
+  color: #fff;
+}
+
+.awards-toggle-all {
+  background: none;
+  border: none;
+  color: #252664;
+  font-weight: 600;
+  font-size: 0.85rem;
+  cursor: pointer;
+  text-decoration: underline;
+  padding: 6px 0;
+}
+
+.awards-toggle-all:hover {
+  color: #9194BA;
+}
+
+.award-year {
+  border-top: 1px solid #d8d9e6;
+}
+
+.award-year:last-of-type {
+  border-bottom: 1px solid #d8d9e6;
+}
+
+.award-year summary {
+  display: flex;
+  align-items: baseline;
+  gap: 12px;
+  cursor: pointer;
+  list-style: none;
+  padding: 14px 4px;
+  user-select: none;
+}
+
+.award-year summary::-webkit-details-marker {
+  display: none;
+}
+
+.award-year summary::before {
+  content: "+";
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: #252664;
+  width: 16px;
+  display: inline-block;
+}
+
+.award-year[open] summary::before {
+  content: "\2212";
+}
+
+.award-year-label {
+  font-size: 1.6rem;
+  font-weight: 700;
+  color: #151A30;
+}
+
+.award-year-count {
+  font-size: 0.85rem;
+  color: #7d7f9a;
+}
+
+.award-list {
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  padding: 4px 4px 24px 28px;
+}
+
+.award-item {
+  border-left: 3px solid #9194BA;
+  padding-left: 16px;
+}
+
+.award-item[data-category="gis"] { border-left-color: #252664; }
+.award-item[data-category="transit"] { border-left-color: #1f7a6c; }
+.award-item[data-category="academic"] { border-left-color: #8a6d3b; }
+.award-item[data-category="architecture"] { border-left-color: #a14e4e; }
+
+.award-item-header {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 4px;
+}
+
+.award-item-header h3 {
+  margin: 0;
+  font-size: 1.1rem;
+}
+
+.award-tag {
+  font-size: 0.7rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  padding: 3px 10px;
+  border-radius: 12px;
+  color: #fff;
+  white-space: nowrap;
+}
+
+.award-tag-gis { background-color: #252664; }
+.award-tag-transit { background-color: #1f7a6c; }
+.award-tag-academic { background-color: #8a6d3b; }
+.award-tag-architecture { background-color: #a14e4e; }
+
+.award-org {
+  font-style: italic;
+  color: #555;
+  margin: 0 0 8px;
+}
+
+.award-media {
+  margin: 10px 0;
+  text-align: center;
+}
+
+.award-media img {
+  max-width: 100%;
+  width: 400px;
+  border-radius: 8px;
+}
+
+@media (max-width: 600px) {
+  .awards-controls {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .award-list {
+    padding-left: 16px;
+  }
+}
