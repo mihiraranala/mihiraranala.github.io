@@ -2,8 +2,8 @@
 layout: post
 title: The RAPID Interurban Transit Partnership Transit Master Plan, Grand Rapids, Michigan
 subtitle: Trips Analysis
-cover-img: 
-thumbnail-img:
+cover-img: /assets/img/IMG_2217_v3.jpg
+thumbnail-img: /assets/img/IMG_2217_v3.jpg
 share-img: /assets/img/path.jpg
 tags: [projects]
 author: Mihir Sriram Aranala

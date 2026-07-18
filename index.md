@@ -4,22 +4,27 @@ title: Mihir Sriram Aranala, GISP
 subtitle: Transit planner with a quest for data
 ---
 
-<img src="https://mihiraranala.github.io/assets/img/Mihir_Headshot.jpg" width="200">
+<div class="container hero">
+  <div class="image">
+    <img src="https://mihiraranala.github.io/assets/img/Mihir Sriram Aranala Headshot.jpg" alt="Mihir Sriram Aranala" class="hero-photo">
+  </div>
+  <div class="content">
+    <p class="hero-lede">I am an architect and urban planner turned transit data analyst, currently pursuing an MBA in Finance &amp; Entrepreneurship at Westcliff University. I spent a semester in Umeå, Sweden studying Swedish architecture and urban design before landing in transit planning &mdash; where my work now sits at the intersection of rail, transit, and urban data.</p>
+    <div class="cta-row">
+      <a class="btn-cta btn-cta-primary" href="#gallery">View My Work</a>
+      <a class="btn-cta btn-cta-secondary" href="Resume Mihir Aranala April 2024.pdf">Resume</a>
+    </div>
+  </div>
+</div>
 
-My name is Mihir Sriram Aranala. I am an architect and an urban planner by profession. I am currently pursuing my MBA in Finance and Entreprenuership from School of Business, Westcliff University.
+<div class="stat-strip">
+  <span class="stat-badge">GISP Certified</span>
+  <span class="stat-badge">AECOM &middot; Transportation Planner</span>
+  <span class="stat-badge">MS Urban &amp; Environmental Planning, ASU</span>
+  <span class="stat-badge">B.Arch, Manipal Academy of Higher Education</span>
+</div>
 
-Follow this link to my resume - <a class="link-text" href="Resume Mihir Aranala April 2024.pdf"> Here </a>
-
-
-- I am a Transportation Planner at AECOM.
-- I received my GISP certifcation in March 2025.
-- My experience lies in data and spatial analysis, mapping, systems analysis, service and operations planning, and the use of various innovative tools.
-- I assist in transit, microtransit, BRT, and bike planning through data, spatial analysis and report writing.
-- I hold a Bachelor's degree in Architecture from Manipal Academy of Higher Education, India.
-- I spent a semester in Umea, Sweden learning about Swedish architecture, urban design, and housing.
-- I graduate from Arizona State University with a Masters' degree in Urban and Environmental Planning in May 2023.
-- 👀 I’m interested in the intersection of Transport (Rail and Transit) and urban data.
-- 📫 Email me at mihir.planning@gmail.com
+<p class="hero-extra">👀 Interested in the intersection of Transport (Rail and Transit) and urban data &nbsp;&middot;&nbsp; 📫 <a href="mailto:mihir.planning@gmail.com">mihir.planning@gmail.com</a></p>
 
 ## Maps Highlighted at ESRI UC 2026 Map Gallery - July 2026
 
@@ -59,11 +64,42 @@ Check out my latest podcast episode where I share my journey from being an inter
 
 
 {% assign posts = site.tags['projects'] %}
+{% assign featured = posts | first %}
 
-## Gallery Section
+## Selected Projects {#gallery}
+
+{% if featured %}
+  {%- capture featured_thumb -%}
+    {% if featured.thumbnail-img %}
+      {{ featured.thumbnail-img }}
+    {% elsif featured.cover-img %}
+      {% if featured.cover-img.first %}
+        {{ featured.cover-img[0].first.first }}
+      {% else %}
+        {{ featured.cover-img }}
+      {% endif %}
+    {% else %}
+    {% endif %}
+  {%- endcapture -%}
+  {% assign featured_thumb = featured_thumb | strip %}
+
+  {% if featured_thumb != "" %}
+  <a class="featured-project" href="{{ featured.url | absolute_url }}">
+    <div class="featured-project-img">
+      <img src="{{ featured_thumb | absolute_url }}" alt="{{ featured.title | strip_html }}">
+    </div>
+    <div class="featured-project-info">
+      <span class="featured-label">Featured Project</span>
+      <h3>{{ featured.title | strip_html }}</h3>
+      {% if featured.subtitle %}<p class="featured-subtitle">{{ featured.subtitle | strip_html }}</p>{% endif %}
+      <p class="featured-excerpt">{{ featured.excerpt | strip_html | truncatewords: 30 }}</p>
+    </div>
+  </a>
+  {% endif %}
+{% endif %}
 
 <div class="gallery">
-  {% for post in posts %}
+  {% for post in posts offset: 1 %}
     {%- capture thumbnail -%}
       {% if post.thumbnail-img %}
         {{ post.thumbnail-img }}
@@ -81,7 +117,8 @@ Check out my latest podcast episode where I share my journey from being an inter
     {% if thumbnail != "" %}
     <div class="gallery-item">
       <a href="{{ post.url | absolute_url }}">
-        <img src="{{ thumbnail | absolute_url }}" alt="Project image">
+        <img src="{{ thumbnail | absolute_url }}" alt="{{ post.title | strip_html }}">
+        <span class="gallery-caption">{{ post.title | strip_html }}</span>
       </a>
     </div>
     {% endif %}
