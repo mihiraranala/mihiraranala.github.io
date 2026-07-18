@@ -84,17 +84,17 @@ Check out my latest podcast episode where I share my journey from being an inter
   {% assign featured_thumb = featured_thumb | strip %}
 
   {% if featured_thumb != "" %}
-  <a class="featured-project" href="{{ featured.url | absolute_url }}">
-    <div class="featured-project-img">
+  <div class="featured-project">
+    <a class="featured-project-img" href="{{ featured.url | absolute_url }}">
       <img src="{{ featured_thumb | absolute_url }}" alt="{{ featured.title | strip_html }}">
-    </div>
+    </a>
     <div class="featured-project-info">
       <span class="featured-label">Featured Project</span>
-      <h3>{{ featured.title | strip_html }}</h3>
+      <h3><a href="{{ featured.url | absolute_url }}">{{ featured.title | strip_html }}</a></h3>
       {% if featured.subtitle %}<p class="featured-subtitle">{{ featured.subtitle | strip_html }}</p>{% endif %}
       <p class="featured-excerpt">{{ featured.excerpt | strip_html | truncatewords: 30 }}</p>
     </div>
-  </a>
+  </div>
   {% endif %}
 {% endif %}
 

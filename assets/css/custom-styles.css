@@ -129,17 +129,11 @@ grid-area: content;
   border-radius: 10px;
   overflow: hidden;
   background-color: #F2F3F7;
-  text-decoration: none;
-  color: inherit;
   box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
 }
 
-.featured-project:hover {
-  text-decoration: none;
-  color: inherit;
-}
-
 .featured-project-img {
+  display: block;
   overflow: hidden;
 }
 
@@ -172,6 +166,16 @@ grid-area: content;
 
 .featured-project-info h3 {
   margin: 0 0 8px;
+}
+
+.featured-project-info h3 a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.featured-project-info h3 a:hover {
+  color: #252664;
+  text-decoration: underline;
 }
 
 .featured-subtitle {
