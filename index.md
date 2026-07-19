@@ -12,7 +12,7 @@ subtitle: Transit planner with a quest for data
     <p class="hero-lede">I am an architect and urban planner turned transit data analyst, currently pursuing an MBA in Finance &amp; Entrepreneurship at Westcliff University. I spent a semester in Umeå, Sweden studying Swedish architecture and urban design before landing in transit planning &mdash; where my work now sits at the intersection of rail, transit, and urban data.</p>
     <div class="cta-row">
       <a class="btn-cta btn-cta-primary" href="#gallery">View My Work</a>
-      <a class="btn-cta btn-cta-secondary" href="Mihir_Resume_July 2026.pdf">Resume</a>
+      <a class="btn-cta btn-cta-secondary" href="Mihir_Resume_July_2026.pdf">Resume</a>
     </div>
   </div>
 </div>
