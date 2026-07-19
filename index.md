@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mihir Sriram Aranala, GISP
+title: Mihir Aranala
 ---
 
 <div class="container hero">
