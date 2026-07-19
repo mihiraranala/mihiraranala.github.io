@@ -9,8 +9,9 @@ subtitle: Transit planner with a quest for data
     <img src="https://mihiraranala.github.io/assets/img/Mihir Sriram Aranala Headshot.jpg" alt="Mihir Sriram Aranala" class="hero-photo">
   </div>
   <div class="content">
-    <p class="hero-greeting">Hey, I'm <span class="hero-name">Mihir Aranala</span>.</p>
-    <p class="hero-lede">I turn transit and urban data into infrastructure decisions &mdash; from AECOM's rail corridors to award-winning GIS maps. I try my best to build things that move people better 🚏</p>
+    <p class="hero-greeting">Hey, I'm <span class="hero-name">Mihir Aranala</span>!</p>
+    <p class="hero-lede">
+Leveraging transportation data into that building smarter transportation systems</p>
     <div class="cta-row">
       <a class="btn-cta btn-cta-primary" href="#gallery">View My Work</a>
       <a class="btn-cta btn-cta-secondary" href="Mihir_Resume_July_2026.pdf">Resume</a>
