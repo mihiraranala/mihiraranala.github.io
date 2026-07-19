@@ -19,10 +19,11 @@ I leverage complex transportation data into building smarter transportation syst
 </div>
 
 <div class="stat-strip">
-  <span class="stat-badge">GISP Certified</span>
-  <span class="stat-badge">AECOM &middot; Transportation Planner</span>
-  <span class="stat-badge">MS Urban &amp; Environmental Planning, ASU</span>
-  <span class="stat-badge">B.Arch, Manipal Academy of Higher Education</span>
+  <span class="stat-badge">GISP-Certified</span>
+  <span class="stat-badge">Transportation Planner</span>
+  <span class="stat-badge">MBA - Financial Management</span>
+  <span class="stat-badge">MS Urban &amp; Environmental Planning</span>
+  <span class="stat-badge">B.Architecture</span>
 </div>
 
 <p class="hero-extra">👀 Interested in the intersection of Transport (Rail and Transit) and urban data &nbsp;&middot;&nbsp; 📫 <a href="mailto:mihir.planning@gmail.com">mihir.planning@gmail.com</a></p>
