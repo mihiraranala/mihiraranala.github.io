@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Mihir Aranala
 ---
 
 <div class="container hero">
