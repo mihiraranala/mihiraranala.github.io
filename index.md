@@ -10,7 +10,7 @@ title: Mihir Sriram Aranala, GISP
   <div class="content">
     <p class="hero-greeting">Hey there, I'm <span class="hero-name">Mihir Aranala!</span></p>
     <p class="hero-lede">
-Leveraging transportation data into that building smarter transportation systems</p>
+I leverage complex transportation data into building smarter transportation systems for tomorrow.</p>
     <div class="cta-row">
       <a class="btn-cta btn-cta-primary" href="#gallery">View My Work</a>
       <a class="btn-cta btn-cta-secondary" href="Mihir_Resume_July_2026.pdf">Resume</a>
