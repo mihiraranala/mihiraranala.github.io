@@ -99,7 +99,7 @@ I leverage complex transportation data into building smarter transportation syst
   var cards = Array.prototype.slice.call(carousel.querySelectorAll('.carousel-card'));
   var prevBtn = carousel.querySelector('.carousel-arrow-left');
   var nextBtn = carousel.querySelector('.carousel-arrow-right');
-  var active = 0;
+  var active = 1;
 
   function update() {
     cards.forEach(function (card, i) {
