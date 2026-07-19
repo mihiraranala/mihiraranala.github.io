@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Mihir Sriram Aranala, GISP
-subtitle: Transit planner with a quest for data
 ---
 
 <div class="container hero">
