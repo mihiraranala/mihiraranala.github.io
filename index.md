@@ -9,7 +9,8 @@ subtitle: Transit planner with a quest for data
     <img src="https://mihiraranala.github.io/assets/img/Mihir Sriram Aranala Headshot.jpg" alt="Mihir Sriram Aranala" class="hero-photo">
   </div>
   <div class="content">
-    <p class="hero-lede">I am an architect and urban planner turned transit data analyst, currently pursuing an MBA in Finance &amp; Entrepreneurship at Westcliff University. I spent a semester in Umeå, Sweden studying Swedish architecture and urban design before landing in transit planning &mdash; where my work now sits at the intersection of rail, transit, and urban data.</p>
+    <p class="hero-greeting">Hey, I'm <span class="hero-name">Mihir Aranala</span>.</p>
+    <p class="hero-lede">I turn transit and urban data into infrastructure decisions &mdash; from AECOM's rail corridors to award-winning GIS maps. I try my best to build things that move people better 🚏</p>
     <div class="cta-row">
       <a class="btn-cta btn-cta-primary" href="#gallery">View My Work</a>
       <a class="btn-cta btn-cta-secondary" href="Mihir_Resume_July_2026.pdf">Resume</a>

@@ -15,7 +15,7 @@ My name is Mihir Sriram Aranala. I am an architect and an urban planner by profe
 - I graduate from Arizona State University with a Masters' degree in Urban and Environmental Planning in May 2023.
 - 👀 I’m interested in the intersection of Transport (Rail and Transit) and urban data.
 - 🌱 I’m currently learning Spatial Data Science and Hadoop.
-- 📫 Email me at sriram.mihir@gmail.com
+- 📫 Email me at mihir.planning@gmail.com
 
 What else do you need?
 
