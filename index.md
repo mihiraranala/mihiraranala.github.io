@@ -9,7 +9,7 @@ subtitle: Transit planner with a quest for data
     <img src="https://mihiraranala.github.io/assets/img/Mihir Sriram Aranala Headshot.jpg" alt="Mihir Sriram Aranala" class="hero-photo">
   </div>
   <div class="content">
-    <p class="hero-greeting">Hey, I'm <span class="hero-name">Mihir Aranala</span>!</p>
+    <p class="hero-greeting">Hey there, I'm <span class="hero-name">Mihir Aranala!</span></p>
     <p class="hero-lede">
 Leveraging transportation data into that building smarter transportation systems</p>
     <div class="cta-row">
