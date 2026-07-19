@@ -66,7 +66,10 @@ Check out my latest podcast episode where I share my journey from being an inter
 {% assign posts = site.tags['projects'] %}
 {% assign featured = posts | first %}
 
-## Selected Projects {#gallery}
+<div class="projects-header" id="gallery">
+  <h2>Selected Projects</h2>
+  <p>Take a scroll, stay a while</p>
+</div>
 
 {% if featured %}
   {%- capture featured_thumb -%}
@@ -98,7 +101,7 @@ Check out my latest podcast episode where I share my journey from being an inter
   {% endif %}
 {% endif %}
 
-<div class="gallery">
+<div class="work-grid">
   {% for post in posts offset: 1 %}
     {%- capture thumbnail -%}
       {% if post.thumbnail-img %}
@@ -113,14 +116,13 @@ Check out my latest podcast episode where I share my journey from being an inter
       {% endif %}
     {% endcapture %}
     {% assign thumbnail=thumbnail | strip %}
+    {% capture accent %}{% cycle "#d9c9a3", "#a8c5e8", "#b7cdb0", "#e0b3a0" %}{% endcapture %}
 
     {% if thumbnail != "" %}
-    <div class="gallery-item">
-      <a href="{{ post.url | absolute_url }}">
-        <img src="{{ thumbnail | absolute_url }}" alt="{{ post.title | strip_html }}">
-        <span class="gallery-caption">{{ post.title | strip_html }}</span>
-      </a>
-    </div>
+    <a class="work-card" href="{{ post.url | absolute_url }}" style="--accent: {{ accent }};">
+      <img src="{{ thumbnail | absolute_url }}" alt="{{ post.title | strip_html }}">
+      <span class="work-card-caption">{{ post.title | strip_html }}</span>
+    </a>
     {% endif %}
   {% endfor %}
 </div>
