@@ -27,41 +27,101 @@ I leverage complex transportation data into building smarter transportation syst
 
 <p class="hero-extra">👀 Interested in the intersection of Transport (Rail and Transit) and urban data &nbsp;&middot;&nbsp; 📫 <a href="mailto:mihir.planning@gmail.com">mihir.planning@gmail.com</a></p>
 
-## Maps Highlighted at ESRI UC 2026 Map Gallery - July 2026
+<div class="news-header">
+  <h2>Latest News</h2>
+</div>
 
-<img src="https://mihiraranala.github.io/assets/img/ESRI-UC-1.jpg" alt="Mihir Aranala's maps selected for ESRI UC 2026" width="500"> <br>
-Mihir Aranala's map was selected for the Map Gallery at ESRI UC 2026.
+<div class="news-carousel">
+  <button type="button" class="carousel-arrow carousel-arrow-left" aria-label="Previous">&#10094;</button>
 
+  <div class="carousel-track">
 
-## Arizona Forward Emerging Sustainability Leaders Program - May 2026
+    <div class="carousel-card">
+      <img src="https://mihiraranala.github.io/assets/img/ESRI-UC-1.jpg" alt="Mihir Aranala's maps selected for ESRI UC 2026">
+      <div class="carousel-card-body">
+        <p class="carousel-card-date">July 2026</p>
+        <h3>Maps Highlighted at ESRI UC 2026</h3>
+        <p class="carousel-card-text">Mihir Aranala's map was selected for the Map Gallery at ESRI UC 2026.</p>
+      </div>
+    </div>
 
-<img src="https://mihiraranala.github.io/assets/img/AZF_ESL_Graduation_1.jpg" alt="Mihir Aranala graduates from the Arizona Forward Emerging Sustainability Leaders Program" width="500"> <br>
-Mihir Aranala graduated from the Emerging Sustainability Leaders Program conducted by Arizona Forward.
+    <div class="carousel-card">
+      <img src="https://mihiraranala.github.io/assets/img/AZF_ESL_Graduation_1.jpg" alt="Mihir Aranala graduates from the Arizona Forward Emerging Sustainability Leaders Program">
+      <div class="carousel-card-body">
+        <p class="carousel-card-date">May 2026</p>
+        <h3>AZF Sustainability Leaders &mdash; Graduate</h3>
+        <p class="carousel-card-text">Mihir Aranala graduated from the Emerging Sustainability Leaders Program conducted by Arizona Forward.</p>
+      </div>
+    </div>
 
+    <div class="carousel-card">
+      <img src="https://arizonaforward.org/wp-content/uploads/2025/09/2025-2026-Emerging-Sustainability-Leaders.jpg" alt="Mihir Aranala - Arizona Forward Emerging Sustainabiltiy Leaders">
+      <div class="carousel-card-body">
+        <p class="carousel-card-date">September 2025</p>
+        <h3>AZF Sustainability Leaders &mdash; Selected</h3>
+        <p class="carousel-card-text">Mihir Aranala was selected for the Emerging Sustainability Leaders Program conducted by Arizona Forward.</p>
+        <a class="link-text" href="https://acrobat.adobe.com/id/urn:aaid:sc:US:3747fa45-b573-4a9b-9a86-5a5274be78dd">Meet the Program Cohort</a>
+      </div>
+    </div>
 
-## Arizona Forward Emerging Sustainability Leaders Program - September 2025
+    <div class="carousel-card">
+      <img src="https://mihiraranala.github.io/assets/img/mihir-aranala-presentation.png" alt="Mihir Aranala - AGIC Presentation">
+      <div class="carousel-card-body">
+        <p class="carousel-card-date">August 2025</p>
+        <h3>AGIC Symposium Presentation</h3>
+        <p class="carousel-card-text">Mihir Aranala presented at the Arizona Geographic Information Council Training Symposium 2025.</p>
+        <a class="link-text" href="https://storymaps.arcgis.com/stories/06baa0c0a6714e20b4167ae9ac08d468">Check out the AGIC Q4 Newsletter</a>
+      </div>
+    </div>
 
-<img src="https://arizonaforward.org/wp-content/uploads/2025/09/2025-2026-Emerging-Sustainability-Leaders.jpg" alt="Mihir Aranala - Arizona Forward Emerging Sustainabiltiy Leaders" width="500"/> <br>
-Mihir Aranala was selected for the Emerging Sustainability Leaders Program conducted by Arizona Forward.
+    <div class="carousel-card">
+      <img src="https://www.buzzsprout.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSGJOc0FVPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--418e44dea1dfa1833563662af194b12e77877435/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3docEFsZ0NhUUpZQW5zR09nbGpjbTl3T2d0alpXNTBjbVU2Q25OaGRtVnlld1k2REhGMVlXeHBkSGxwUVRvUVkyOXNiM1Z5YzNCaFkyVkpJZ2x6Y21kaUJqb0dSVlE9IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--1924d851274c06c8fa0acdfeffb43489fc4a7fcc/1.jpg" alt="Jazzmen Wilson - GIS Chat Podcast">
+      <div class="carousel-card-body">
+        <p class="carousel-card-date">November 2024</p>
+        <h3>GIS Chat Podcast</h3>
+        <p class="carousel-card-text">Mihir shares his journey from intern to full-time Transportation Planner at AECOM, and the importance of public transit.</p>
+        <a class="link-text" href="https://open.spotify.com/episode/0GOUR0gQFtYmXB2iquE971">Spotify</a>
+        <a class="link-text" href="https://podcasts.apple.com/us/podcast/mihir-aranala/id1712968933?i=1000675874793">Apple Podcasts</a>
+      </div>
+    </div>
 
-<a class="link-text" href="https://acrobat.adobe.com/id/urn:aaid:sc:US:3747fa45-b573-4a9b-9a86-5a5274be78dd"> Meet the Program Cohort</a>
+  </div>
 
+  <button type="button" class="carousel-arrow carousel-arrow-right" aria-label="Next">&#10095;</button>
+</div>
 
-## AGIC Symposium Presentation - August 2025
+<script>
+(function () {
+  var carousel = document.querySelector('.news-carousel');
+  if (!carousel) return;
 
-<img src="https://mihiraranala.github.io/assets/img/mihir-aranala-presentation.png" alt="Mihir Aranala - AGIC Presentation" width="500"/> <br>
-Mihir Aranala presented at the Arizona Geographic Information Council Training Symposium 2025.
+  var track = carousel.querySelector('.carousel-track');
+  var cards = Array.prototype.slice.call(carousel.querySelectorAll('.carousel-card'));
+  var prevBtn = carousel.querySelector('.carousel-arrow-left');
+  var nextBtn = carousel.querySelector('.carousel-arrow-right');
+  var active = 0;
 
-<a class="link-text" href="https://storymaps.arcgis.com/stories/06baa0c0a6714e20b4167ae9ac08d468"> Check out the AGIC Q4 Newsletter</a>
+  function update() {
+    cards.forEach(function (card, i) {
+      card.classList.toggle('active', i === active);
+    });
+    var activeCard = cards[active];
+    var offset = (carousel.clientWidth / 2) - (activeCard.offsetLeft + activeCard.offsetWidth / 2);
+    track.style.transform = 'translateX(' + offset + 'px)';
+  }
 
-## GIS Chat Podcast - November 2024
+  function go(delta) {
+    active = (active + delta + cards.length) % cards.length;
+    update();
+  }
 
-<img src="https://www.buzzsprout.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSGJOc0FVPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--418e44dea1dfa1833563662af194b12e77877435/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3docEFsZ0NhUUpZQW5zR09nbGpjbTl3T2d0alpXNTBjbVU2Q25OaGRtVnlld1k2REhGMVlXeHBkSGxwUVRvUVkyOXNiM1Z5YzNCaFkyVkpJZ2x6Y21kaUJqb0dSVlE9IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--1924d851274c06c8fa0acdfeffb43489fc4a7fcc/1.jpg" alt="Jazzmen Wilson - GIS Chat Podcast" width="200"/> <br>
-Check out my latest podcast episode where I share my journey from being an intern to a full-time Transportation Planner at AECOM. I talk about the importance of public transit and how my experiences in India have shaped my drive journey. Tune in for an insightful conversation!
+  prevBtn.addEventListener('click', function () { go(-1); });
+  nextBtn.addEventListener('click', function () { go(1); });
+  window.addEventListener('resize', update);
 
-
-<a class="link-text" href="https://open.spotify.com/episode/0GOUR0gQFtYmXB2iquE971"> Spotify</a>
-<a class="link-text" href="https://podcasts.apple.com/us/podcast/mihir-aranala/id1712968933?i=1000675874793">Apple Podcasts</a>
+  update();
+})();
+</script>
 
 
 {% assign posts = site.tags['projects'] %}
