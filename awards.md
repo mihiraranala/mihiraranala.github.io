@@ -11,6 +11,7 @@ subtitle: Awards
     <button type="button" class="filter-btn" data-filter="transit">Transit Planning</button>
     <button type="button" class="filter-btn" data-filter="academic">Academic</button>
     <button type="button" class="filter-btn" data-filter="architecture">Architecture</button>
+    <button type="button" class="filter-btn" data-filter="nominations">Nominations</button>
   </div>
   <button type="button" class="awards-toggle-all" data-state="expand">Expand all</button>
 </div>
@@ -109,7 +110,7 @@ subtitle: Awards
 </details>
 
 <details class="award-year" data-default-open="false">
-  <summary><span class="award-year-label">2020</span><span class="award-year-count">2 awards</span></summary>
+  <summary><span class="award-year-label">2020</span><span class="award-year-count">3 items</span></summary>
   <div class="award-list">
 
     <div class="award-item" data-category="architecture">
@@ -128,6 +129,16 @@ subtitle: Awards
         <span class="award-tag award-tag-architecture">Architecture</span>
       </div>
       <p><a class="link-text" href="https://infinymihir.github.io/website/2024-08-23-COA-excellence-awards">Watch the presentation here</a></p>
+    </div>
+
+    <div class="award-item" data-category="nominations">
+      <div class="award-item-header">
+        <h3>President's Medal Nomination &mdash; Re-Imagining Social Housing in Chennai</h3>
+        <span class="award-tag award-tag-nominations">Nomination</span>
+      </div>
+      <p class="award-org">Royal Institute of British Architects (RIBA) &mdash; President's Medals</p>
+      <p>The President's Medals are RIBA's oldest awards, established in 1836, presented annually to architecture students and recent graduates internationally. They are invite-only. Nominated for the thesis project completed at Manipal University under tutor Purushottam Kesar.</p>
+      <p><a class="link-text" href="https://www.presidentsmedals.com/Entry-52901">View the entry &mdash; President's Medals</a></p>
     </div>
 
   </div>

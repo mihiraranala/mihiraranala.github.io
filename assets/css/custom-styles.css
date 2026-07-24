@@ -602,6 +602,7 @@ grid-area: content;
 .award-item[data-category="transit"] { border-left-color: #1f7a6c; }
 .award-item[data-category="academic"] { border-left-color: #8a6d3b; }
 .award-item[data-category="architecture"] { border-left-color: #a14e4e; }
+.award-item[data-category="nominations"] { border-left-color: #6b4c9a; }
 
 .award-item-header {
   display: flex;
@@ -631,6 +632,7 @@ grid-area: content;
 .award-tag-transit { background-color: #1f7a6c; }
 .award-tag-academic { background-color: #8a6d3b; }
 .award-tag-architecture { background-color: #a14e4e; }
+.award-tag-nominations { background-color: #6b4c9a; }
 
 .award-org {
   font-style: italic;
@@ -658,4 +660,50 @@ grid-area: content;
   .award-list {
     padding-left: 16px;
   }
+}
+
+/* Publications page */
+.pub-list {
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+}
+
+.pub-item {
+  border-left: 3px solid #9194BA;
+  padding-left: 16px;
+}
+
+.pub-item[data-category="book-chapter"] { border-left-color: #2f5d8a; }
+
+.pub-item-header {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 4px;
+}
+
+.pub-item-header h3 {
+  margin: 0;
+  font-size: 1.1rem;
+}
+
+.pub-tag {
+  font-size: 0.7rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  padding: 3px 10px;
+  border-radius: 12px;
+  color: #fff;
+  white-space: nowrap;
+}
+
+.pub-tag-book-chapter { background-color: #2f5d8a; }
+
+.pub-org {
+  font-style: italic;
+  color: #555;
+  margin: 0 0 8px;
 }
