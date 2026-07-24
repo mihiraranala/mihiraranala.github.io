@@ -22,6 +22,8 @@ author: Mihir Aranala
 navbar-links:
   About Me: "index"
   Awards: "awards"
+  Publications: "publications"
+  Service: "service"
   Projects: "projects-list/#projects"
   Blog: "blog-posts"
   Linkedin: "https://www.linkedin.com/in/mihiraranala"
