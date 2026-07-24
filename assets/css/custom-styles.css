@@ -707,3 +707,64 @@ grid-area: content;
   color: #555;
   margin: 0 0 8px;
 }
+
+/* Service & Talks page */
+.svc-year-label {
+  font-size: 1.6rem;
+  font-weight: 700;
+  color: #151A30;
+  margin: 28px 0 12px;
+}
+
+.svc-year-label:first-of-type {
+  margin-top: 4px;
+}
+
+.svc-list {
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+}
+
+.svc-item {
+  border-left: 3px solid #9194BA;
+  padding-left: 16px;
+}
+
+.svc-item[data-category="judging"] { border-left-color: #1f7a6c; }
+.svc-item[data-category="mentorship"] { border-left-color: #8a6d3b; }
+.svc-item[data-category="panel"] { border-left-color: #2f5d8a; }
+
+.svc-item-header {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 4px;
+}
+
+.svc-item-header h3 {
+  margin: 0;
+  font-size: 1.1rem;
+}
+
+.svc-tag {
+  font-size: 0.7rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  padding: 3px 10px;
+  border-radius: 12px;
+  color: #fff;
+  white-space: nowrap;
+}
+
+.svc-tag-judging { background-color: #1f7a6c; }
+.svc-tag-mentorship { background-color: #8a6d3b; }
+.svc-tag-panel { background-color: #2f5d8a; }
+
+.svc-org {
+  font-style: italic;
+  color: #555;
+  margin: 0 0 8px;
+}
