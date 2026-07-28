@@ -63,6 +63,9 @@ subtitle: Awards
       </div>
       <p>The WTS Metropolitan Phoenix Chapter offers scholarships to assist qualified candidates aspiring to transportation careers.</p>
       <p><a class="link-text" href="https://www.wtsinternational.org/chapters/metro-phoenix/scholarships/2023-scholarship-recipients">In the news &mdash; WTS International</a></p>
+      <div class="award-media">
+        <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/CplR1p_Mcjw/" data-instgrm-version="14" style="max-width:540px; width:100%; margin: 0 auto;"></blockquote>
+      </div>
     </div>
 
   </div>
@@ -143,6 +146,8 @@ subtitle: Awards
 
   </div>
 </details>
+
+<script async src="//www.instagram.com/embed.js"></script>
 
 <script>
 (function () {
