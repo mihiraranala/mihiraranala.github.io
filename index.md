@@ -37,6 +37,17 @@ I leverage complex transportation data into building smarter transportation syst
   <div class="carousel-track">
 
     <div class="carousel-card">
+      <img src="https://mihiraranala.github.io/assets/img/agic-iron-carto.png" alt="Mihir Aranala wins Iron Cartographer at AGIC 2026">
+      <div class="carousel-card-body">
+        <p class="carousel-card-date">September 2026</p>
+        <h3>Mihir Wins Iron Cartographer at AGIC 2026</h3>
+        <p class="carousel-card-text">Mihir Aranala won the AGIC Iron Cartographer award at the AGIC Education and Training Symposium 2026.</p>
+        <a class="link-text" href="https://www.instagram.com/p/DcmdAhHAWJd/">AGIC Announcement</a>
+        <a class="link-text" href="https://www.instagram.com/p/Dc16b0pgT3U/">ASU SGSUP Feature</a>
+      </div>
+    </div>
+
+    <div class="carousel-card">
       <img src="https://mihiraranala.github.io/assets/img/ESRI-UC-1.jpg" alt="Mihir Aranala's maps selected for ESRI UC 2026">
       <div class="carousel-card-body">
         <p class="carousel-card-date">July 2026</p>
@@ -99,7 +110,7 @@ I leverage complex transportation data into building smarter transportation syst
   var cards = Array.prototype.slice.call(carousel.querySelectorAll('.carousel-card'));
   var prevBtn = carousel.querySelector('.carousel-arrow-left');
   var nextBtn = carousel.querySelector('.carousel-arrow-right');
-  var active = 1;
+  var active = 0;
 
   function update() {
     cards.forEach(function (card, i) {

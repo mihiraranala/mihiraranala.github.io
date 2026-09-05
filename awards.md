@@ -17,6 +17,26 @@ subtitle: Awards
 </div>
 
 <details class="award-year" open data-default-open="true">
+  <summary><span class="award-year-label">2026</span><span class="award-year-count">1 award</span></summary>
+  <div class="award-list">
+
+    <div class="award-item" data-category="gis">
+      <div class="award-item-header">
+        <h3>Iron Cartographer</h3>
+        <span class="award-tag award-tag-gis">GIS &amp; Data</span>
+      </div>
+      <p class="award-org">AGIC Education and Training Symposium 2026</p>
+      <div class="award-media"><img src="https://github.com/infinymihir/website/blob/master/assets/img/agic-iron-carto.png?raw=true" alt="Iron Cartographer award"></div>
+      <p>
+        <a class="link-text" href="https://www.instagram.com/p/DcmdAhHAWJd/">In the news &mdash; AGIC 2026 Maps &amp; Apps Contest Winners</a><br>
+        <a class="link-text" href="https://www.instagram.com/p/Dc16b0pgT3U/">In the news &mdash; ASU School of Geographical Sciences &amp; Urban Planning</a>
+      </p>
+    </div>
+
+  </div>
+</details>
+
+<details class="award-year" data-default-open="false">
   <summary><span class="award-year-label">2024</span><span class="award-year-count">2 awards</span></summary>
   <div class="award-list">
 
