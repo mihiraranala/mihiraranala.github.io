@@ -2,8 +2,8 @@
 layout: post
 title: City of Fort Worth Master Transportation Plan
 subtitle: GIS Mapping and Technical Analysis
-cover-img: 
-thumbnail-img: 
+cover-img: /assets/img/cofw-cover.png
+thumbnail-img: /assets/img/cofw-cover.png
 share-img: /assets/img/path.jpg
 tags: [projects]
 author: Mihir Sriram Aranala
@@ -13,6 +13,9 @@ The City of Fort Worth Master Transportation Plan (MTP) is the city's unified tr
 
 The MTP is organized around several interconnected elements: the Vision Zero Safety Action Plan, which applies a safe system approach to reducing roadway deaths and severe injuries; the Master Roadway Network, the long-range plan for the city's major transportation facilities; the Active Transportation and Micromobility Network; the Transportation Investment Program, which identifies and prioritizes improvements against available funding sources; and an Access Management Policy guiding roadway access design. The plan was informed by corridor studies along East Berry Street, McCart Avenue, and the Eastside, and by an extensive public engagement process documented at [movingamillion.org](https://movingamillion.org).
 
-AECOM supported the City of Fort Worth in the delivery of the Master Transportation Plan. Mihir supported the effort with GIS mapping and technical analysis, developing the maps and spatial datasets underpinning the plan's networks and contributing to the analysis used to evaluate and prioritize transportation investments.
+AECOM supported the City of Fort Worth in the delivery of the Master Transportation Plan. Mihir supported the effort with GIS mapping and technical analysis, developing the maps and spatial datasets underpinning the plan's networks and contributing to the analysis used to evaluate and prioritize transportation investments. As part of the technical analysis, Mihir developed a script to identify three-way junctions and nearby junctions and nodes across the roadway network, then drew connecting lines between them to flag potential gaps in network connectivity. These candidate connections were evaluated against physical barriers and neighborhood context to determine feasibility — those that didn't pass were refined, and the remaining roadway links were finalized for inclusion in the Master Roadway Network.
 
-<h3><a target="_blank" href="https://online.flippingbook.com/view/720829013/21/">Read the adopted Master Transportation Plan</a></h3>
+<div class="cta-row">
+  <a class="btn-cta btn-cta-primary" target="_blank" href="https://online.flippingbook.com/view/720829013/21/">Read the Adopted Master Transportation Plan</a>
+  <a class="btn-cta btn-cta-secondary" target="_blank" href="https://storymaps.arcgis.com/stories/1f3acbef087049698a28c7e761f9fabd">View the StoryMap</a>
+</div>
